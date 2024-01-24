@@ -31,7 +31,7 @@ The week before the course is a good opportunity to review the Getting everythin
 
 ** Monday, January 15th is Martin Luther King Jr. Day (no classes). First class is Wednesday, January 17th. 
 
-Assignments:
+## Assignments:
 
 In-class sketching exercise.  You may find it helpful to have some paper and colored pens / pencils on hand for the exercise (although not required).  You are also welcome to complete the exercise digitally (e.g. on an iPad) if you prefer.
 Controlling Color - week one sketching exercise (due 11:59 p.m., Sun 01/21)
@@ -41,14 +41,14 @@ Personal portfolio (due 11:59 p.m., Mon 01/22)*
 
 # Week two 
 
-Assignments: 
+## Assignments: 
 
 Data visualization #1 (due 11:59 p.m., Mon 01/29)
 Crafting for Clarity- week two sketching exercise (due 11:59 p.m., Sun 01/28)
 
 # Week three 
 
-Assignments: 
+## Assignments: 
 
 Assignment 3&4: Critique by Design (due 11:59 p.m., Tue 02/06)*
 No sketching exercise this week
@@ -58,7 +58,7 @@ No sketching exercise this week
 
 Mid-course feedback and assessment (~10 min)
 
-# Assignments*: 
+## Assignments: 
 
 Choosing Chart Types - week four sketching exercise (due 11:59 p.m., Monday 02/12)
 Final Project, part one (due 11:59 p.m., Monday 02/12)
@@ -67,7 +67,7 @@ Final Project, part one avoiding plagiarism quiz (due 11:59 p.m., Monday 02/12)
 
 # Week five 
 
-Assignments*: 
+## Assignments: 
 
 Practicing Persuasion - week five sketching exercise (due 11:59 p.m., Wednesday 02/21)
 Final Project, part two (due 11:59 p.m., Wednesday 02/21)
@@ -75,7 +75,7 @@ Final Project, part two (due 11:59 p.m., Wednesday 02/21)
 
 # Week six
 
-Assignments: 
+## Assignments: 
 
 Final Project, part three (due 11:59 p.m., Thursday 02/28)
 Cleaning up your online portfolio (due 11:59 p.m., Thursday 02/28)
@@ -83,7 +83,7 @@ No sketching exercise this week
 
 # Week seven
 
-Assignments: 
+## Assignments: 
 
 See assignment due dates from week six.  
 Your attendance is required for both days, since you'll be providing a critique for other presentations. At the end of the presentations, we'll recap a few things we learned and talk about where you can go from here (as time allows).  
