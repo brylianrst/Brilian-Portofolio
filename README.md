@@ -87,6 +87,7 @@ No sketching exercise this week
 
 See assignment due dates from week six.  
 Your attendance is required for both days, since you'll be providing a critique for other presentations. At the end of the presentations, we'll recap a few things we learned and talk about where you can go from here (as time allows).  
+
 ** Final presentations will be held the last week, on February 26 and February 28 during class. **
 
 # Examples
