@@ -2,7 +2,7 @@
 
 # TSWD-portfolio
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
+- Web page URL: https://brylianrst.github.io/Brilian-Portofolio/
 - This repository: https://github.com/brylianrst/Brilian-Portofolio
 
 # Portfolio
