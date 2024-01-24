@@ -60,12 +60,9 @@ Mid-course feedback and assessment (~10 min)
 
 ## Assignments: 
 
-The final project will be your opportunity to put everything you've learned so far into action.  A core goal of the final project will be understanding your audience and ensuring you are communicating at an appropriate level, and telling the story using data visualization methods that are meaningful.  
-
-Part I: a project proposal.  An outline of your project, copies of data, and the identified method you'll use for presenting.
-
 Choosing Chart Types - week four sketching exercise (due 11:59 p.m., Monday 02/12)
 Final Project, part one (due 11:59 p.m., Monday 02/12)
+Part I: a project proposal.  An outline of your project, copies of data, and the identified method you'll use for presenting.
 Final Project, part one avoiding plagiarism quiz (due 11:59 p.m., Monday 02/12)
 * This is to allow for an in-class critique before you turn in your work. 
 
@@ -75,8 +72,9 @@ Final Project, part one avoiding plagiarism quiz (due 11:59 p.m., Monday 02/12)
 
 Practicing Persuasion - week five sketching exercise (due 11:59 p.m., Wednesday 02/21)
 Final Project, part two (due 11:59 p.m., Wednesday 02/21)
-* This is to allow for an in-class critique before you turn in your work. 
 Part II: Sketches, wireframes, storyboards.  User research and incorporating user feedback.
+* This is to allow for an in-class critique before you turn in your work. 
+
 
 # Week six
 
