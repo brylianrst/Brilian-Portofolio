@@ -60,6 +60,10 @@ Mid-course feedback and assessment (~10 min)
 
 ## Assignments: 
 
+The final project will be your opportunity to put everything you've learned so far into action.  A core goal of the final project will be understanding your audience and ensuring you are communicating at an appropriate level, and telling the story using data visualization methods that are meaningful.  
+
+Part I: a project proposal.  An outline of your project, copies of data, and the identified method you'll use for presenting.
+
 Choosing Chart Types - week four sketching exercise (due 11:59 p.m., Monday 02/12)
 Final Project, part one (due 11:59 p.m., Monday 02/12)
 Final Project, part one avoiding plagiarism quiz (due 11:59 p.m., Monday 02/12)
@@ -72,12 +76,16 @@ Final Project, part one avoiding plagiarism quiz (due 11:59 p.m., Monday 02/12)
 Practicing Persuasion - week five sketching exercise (due 11:59 p.m., Wednesday 02/21)
 Final Project, part two (due 11:59 p.m., Wednesday 02/21)
 * This is to allow for an in-class critique before you turn in your work. 
+Part II: Sketches, wireframes, storyboards.  User research and incorporating user feedback.
 
 # Week six
 
 ## Assignments: 
 
 Final Project, part three (due 11:59 p.m., Thursday 02/28)
+Part III: Final deliverable and presentation.  The final deliverable can be a website, presentation, interactive work, etc., and should be publicly accessible.   You'll prepare and present a lightning talk for your final presentation. 
+Additional information about the final project will be provided later in the course.
+
 Cleaning up your online portfolio (due 11:59 p.m., Thursday 02/28)
 No sketching exercise this week
 
@@ -101,9 +109,16 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
+
 [Part I](final-project-part-one)
+Part I: a project proposal.  An outline of your project, copies of data, and the identified method you'll use for presenting.
+
 [Part II](final-project-part-two)
+Part II: Sketches, wireframes, storyboards.  User research and incorporating user feedback.
+
 Part III(final-project-part-three)
+Part III: Final deliverable and presentation.  The final deliverable can be a website, presentation, interactive work, etc., and should be publicly accessible.   You'll prepare and present a lightning talk for your final presentation. 
+Additional information about the final project will be provided later in the course.
 
 ---
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
