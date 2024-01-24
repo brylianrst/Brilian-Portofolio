@@ -11,22 +11,83 @@ Sometimes it's helpful to keep track of your web URL.  Consider putting that som
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hello there! 👋 I'm Brilian, a graduate student at MISM 12 and also a dedicated data enthusiast with a background in Project Management and Business Analyst. My journey into the vast realm of data began with a spark of curiosity, and since then, I've been on a mission to unravel the stories hidden within the numbers. In my day-to-day work back then i analyzed data to gain insights for deciding project initiatives. I've witnessed firsthand the transformative power of data in making informed decisions and driving positive outcomes. My fascination with the potential of data led me to embark on this exciting journey of continuous learning.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+In this "Telling Stories with Data" course, I'm eager to delve deeper into the art and science of effective data storytelling. My goal is to not only master the technical aspects of creating compelling visualizations but also to understand the psychology behind impactful data communication. Specifically, I hope to gain insights into :
+- Crafting narratives: I want to learn how to weave a compelling story around data, making it accessible and engaging for a diverse audience.
+- Visualization techniques: I aim to enhance my skills in creating visually appealing and informative charts, graphs, and dashboards.
+- Ethical considerations: Understanding the ethical implications of data storytelling is crucial. I want to explore how to communicate data responsibly and transparently.
+  
+Throughout the course, I'm excited to collaborate with fellow learners, exchange ideas, and receive constructive feedback. Together, let's uncover the secrets hidden in the data and learn the art of telling stories that resonate and inspire action.
 
 # Portfolio
+
+# Week zero
+
+The week before the course is a good opportunity to review the Getting everything set up guide on Canvas, and purchasing the required texts and materials. 
+
+# Week one
+
+** Monday, January 15th is Martin Luther King Jr. Day (no classes). First class is Wednesday, January 17th. 
+
+Assignments:
+
+In-class sketching exercise.  You may find it helpful to have some paper and colored pens / pencils on hand for the exercise (although not required).  You are also welcome to complete the exercise digitally (e.g. on an iPad) if you prefer.
+Controlling Color - week one sketching exercise (due 11:59 p.m., Sun 01/21)
+Data visualization critique #1 (due 11:59 p.m., Mon 01/22)
+Personal portfolio (due 11:59 p.m., Mon 01/22)* 
+* Note that the personal portfolio assignment is due on Monday instead of Sunday.  This is to give you extra time to troubleshoot any technical issues for those less familiar with Github. 
+
+# Week two 
+
+Assignments: 
+
+Data visualization #1 (due 11:59 p.m., Mon 01/29)
+Crafting for Clarity- week two sketching exercise (due 11:59 p.m., Sun 01/28)
+
+# Week three 
+
+Assignments: 
+
+Assignment 3&4: Critique by Design (due 11:59 p.m., Tue 02/06)*
+No sketching exercise this week
+* Note that Assignment 3&4 has an extended deadline.  This is to give you extra time to complete the assignment.  You should expect to spend between 7 -9 hours over the course of the week completing this assignment. 
+
+# Week four
+
+Mid-course feedback and assessment (~10 min)
+
+# Assignments*: 
+
+Choosing Chart Types - week four sketching exercise (due 11:59 p.m., Monday 02/12)
+Final Project, part one (due 11:59 p.m., Monday 02/12)
+Final Project, part one avoiding plagiarism quiz (due 11:59 p.m., Monday 02/12)
+* This is to allow for an in-class critique before you turn in your work. 
+
+# Week five 
+
+Assignments*: 
+
+Practicing Persuasion - week five sketching exercise (due 11:59 p.m., Wednesday 02/21)
+Final Project, part two (due 11:59 p.m., Wednesday 02/21)
+* This is to allow for an in-class critique before you turn in your work. 
+
+# Week six
+
+Assignments: 
+
+Final Project, part three (due 11:59 p.m., Thursday 02/28)
+Cleaning up your online portfolio (due 11:59 p.m., Thursday 02/28)
+No sketching exercise this week
+
+# Week seven
+
+Assignments: 
+
+See assignment due dates from week six.  
+Your attendance is required for both days, since you'll be providing a critique for other presentations. At the end of the presentations, we'll recap a few things we learned and talk about where you can go from here (as time allows).  
+** Final presentations will be held the last week, on February 26 and February 28 during class. **
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
