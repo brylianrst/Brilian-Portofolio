@@ -13,9 +13,9 @@ Hello there! 👋 I'm Brilian, a graduate student at MISM 12 and also a dedicate
 
 # What I hope to learn
 In this "Telling Stories with Data" course, I'm eager to delve deeper into the art and science of effective data storytelling. My goal is to not only master the technical aspects of creating compelling visualizations but also to understand the psychology behind impactful data communication. Specifically, I hope to gain insights into :
-- Crafting narratives: I want to learn how to weave a compelling story around data, making it accessible and engaging for a diverse audience.
-- Visualization techniques: I aim to enhance my skills in creating visually appealing and informative charts, graphs, and dashboards.
-- Ethical considerations: Understanding the ethical implications of data storytelling is crucial. I want to explore how to communicate data responsibly and transparently.
+1. Crafting narratives: I want to learn how to weave a compelling story around data, making it accessible and engaging for a diverse audience.
+2. Visualization techniques: I aim to enhance my skills in creating visually appealing and informative charts, graphs, and dashboards.
+3. Ethical considerations: Understanding the ethical implications of data storytelling is crucial. I want to explore how to communicate data responsibly and transparently.
   
 Throughout the course, I'm excited to collaborate with fellow learners, exchange ideas, and receive constructive feedback. Together, let's uncover the secrets hidden in the data and learn the art of telling stories that resonate and inspire action.
 
