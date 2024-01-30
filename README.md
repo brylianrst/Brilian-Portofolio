@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) | [Part 1: Working with web-based visualization tools and data] (https://brylianrst.github.io/Brilian-Portofolio/governmentdebtviz.html) | [Part 2: Working with Tableau] (https://brylianrst.github.io/Brilian-Portofolio/Governmentdebthighlightviz.html) | [Part 3: Create your own visualization] (https://brylianrst.github.io/Brilian-Portofolio/Myowngvernmentdebtviz.html)
 
 # Brilian-TSWD-portfolio
 
