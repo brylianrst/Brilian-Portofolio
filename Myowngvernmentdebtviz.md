@@ -7,3 +7,12 @@
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+# Explanation of my own government debt visualization
+
+Source of data : https://data.oecd.org/gga/general-government-debt.htm
+
+In my own revised government debt visualization, I've adopted a side-by-side bars approach, deviating from the previous task that utilized a highlight/heatmap visualization. 
+I've also adjusted the variables, shifting from using "Year" (time) as columns, "Location" as rows, and two instances of "sum(value)" as marks, to now organizing the data with "Location" and "sum(value)" as columns,
+and "Year" (time) as rows with marks. This restructuring aims to accentuate the depiction of government debt average values across countries, arranged in descending order. 
+By presenting the data in this manner, it becomes visually evident that Japan holds the highest government debt average, while Estonia boasts the lowest. This new visualization not only facilitates a straightforward comparison of average values between countries but also enhances audience navigation by incorporating colored labels based on years, providing an intuitive means for viewers to explore specific timeframes.
