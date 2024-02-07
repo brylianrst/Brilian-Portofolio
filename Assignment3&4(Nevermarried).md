@@ -67,8 +67,15 @@ Now that i haved developed some ideas around how to improve the data visualizati
 
 ## 1st Sketch
 
-<div class='tableauPlaceholder' id='viz1707275965843' style='position: relative'><noscript><a href='#'><img alt='Dashboard1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;Nevermarriedsketch5&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Nevermarriedsketch5&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;Nevermarriedsketch5&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>     
-
+<div class='tableauPlaceholder' id='viz1707280523990' style='position: relative'><noscript><a href='#'><img alt='Dashboard1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;Nevermarriedsketch5&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Nevermarriedsketch5&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;Nevermarriedsketch5&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+ var divElement = document.getElementById('viz1707280523990');                    
+ var vizElement = divElement.getElementsByTagName('object')[0];                   
+ vizElement.style.width='1400px';vizElement.style.height='927px';                    
+ var scriptElement = document.createElement('script');                    
+ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+ vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
 In this sketching, i try to redesign the visualization to portray it differently from the original image also try to add another data to tell :
 
@@ -85,7 +92,15 @@ Change of Graph View Orientation : I also changed the view orientation of the ba
 
 ## 2nd Sketch
 
-<div class='tableauPlaceholder' id='viz1707276045620' style='position: relative'><noscript><a href='#'><img alt='Dashboard2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;Nevermarriedsketch6&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Nevermarriedsketch6&#47;Dashboard2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;Nevermarriedsketch6&#47;Dashboard2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+<div class='tableauPlaceholder' id='viz1707280282628' style='position: relative'><noscript><a href='#'><img alt='Dashboard2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;Nevermarriedsketch6&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Nevermarriedsketch6&#47;Dashboard2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;Nevermarriedsketch6&#47;Dashboard2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+ var divElement = document.getElementById('viz1707280282628');                    
+ var vizElement = divElement.getElementsByTagName('object')[0];                    
+ if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1300px';vizElement.style.height='927px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1300px';vizElement.style.height='927px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     
+ var scriptElement = document.createElement('script');                    
+ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+ vizElement.parentNode.insertBefore(scriptElement, vizElement);               
+</script>
 
 For this sketch i intentionally tried to make it the same as sketch 1 for the Change of Graph Colors and Change of Headlines since i found it a great narrative and visual for experimenting for the gathering feedback from others.
 
@@ -99,7 +114,15 @@ For this sketch i intentionally tried to make it the same as sketch 1 for the Ch
 ## 3rd Sketch
 
 
-<div class='tableauPlaceholder' id='viz1707276507284' style='position: relative'><noscript><a href='#'><img alt='Dashboard3 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;Nevermarriedsketch7&#47;Dashboard3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Nevermarriedsketch7&#47;Dashboard3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;Nevermarriedsketch7&#47;Dashboard3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+<div class='tableauPlaceholder' id='viz1707280412461' style='position: relative'><noscript><a href='#'><img alt='Dashboard3 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;Nevermarriedsketch7&#47;Dashboard3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Nevermarriedsketch7&#47;Dashboard3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;Nevermarriedsketch7&#47;Dashboard3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+ var divElement = document.getElementById('viz1707280412461');                    
+ var vizElement = divElement.getElementsByTagName('object')[0];                    
+ if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1400px';vizElement.style.height='927px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1400px';vizElement.style.height='927px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     
+ var scriptElement = document.createElement('script');                    
+ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+ vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
 In this sketching, i try to redesign the visualization to portray it differently from the original image also try to add another data to tell :
 
@@ -116,7 +139,15 @@ In this sketching, i try to redesign the visualization to portray it differently
 
 ## 4th Sketch
 
-<div class='tableauPlaceholder' id='viz1707267049716' style='position: relative'><noscript><a href='#'><img alt='Dashboard4 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;Nevermarriedsketch4&#47;Dashboard4&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Nevermarriedsketch4&#47;Dashboard4' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;Nevermarriedsketch4&#47;Dashboard4&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> 
+<div class='tableauPlaceholder' id='viz1707280461415' style='position: relative'><noscript><a href='#'><img alt='Dashboard4 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;Nevermarriedsketch4&#47;Dashboard4&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Nevermarriedsketch4&#47;Dashboard4' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;Nevermarriedsketch4&#47;Dashboard4&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>               
+<script type='text/javascript'>                    
+ var divElement = document.getElementById('viz1707280461415');                    
+ var vizElement = divElement.getElementsByTagName('object')[0];                    
+ if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1300px';vizElement.style.height='927px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1300px';vizElement.style.height='927px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     
+ var scriptElement = document.createElement('script');                    
+ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+ vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
 
 In this sketching, i try to redesign the visualization to portray it differently from the original image also try to add another data to tell :
@@ -223,7 +254,15 @@ For this final step, i tried to implement the feedback that i received for my pr
 
 ## Final Solution
 
-<div class='tableauPlaceholder' id='viz1707278690728' style='position: relative'><noscript><a href='#'><img alt='Dashboard1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;Nevermarriedsketch8&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Nevermarriedsketch8&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;Nevermarriedsketch8&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+<div class='tableauPlaceholder' id='viz1707280491644' style='position: relative'><noscript><a href='#'><img alt='Dashboard1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;Nevermarriedsketch8&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Nevermarriedsketch8&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;Nevermarriedsketch8&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+ var divElement = document.getElementById('viz1707280491644');                    
+ var vizElement = divElement.getElementsByTagName('object')[0];                    
+ vizElement.style.width='1400px';vizElement.style.height='927px';                    
+ var scriptElement = document.createElement('script');                    
+ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+ vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
 In this sketching, i try to redesign the visualization to portray it according to the feedback that the assesment result gives below :
 
