@@ -14,6 +14,11 @@ For step one, I tried to scan around 10-25 types of data visualization that i wa
 
 [link to the watch me viz](https://www.youtube.com/watch?v=MwtsrcioMHI&list=PLX-uPHRG0cLb697Ie-ZGSObRLLNhxzJGK&index=89&t=2630s)
 
+[Original Article](https://www.census.gov/newsroom/press-releases/2021/marriages-and-divorces.html)
+
+[Data Source][(https://www.census.gov/content/dam/Census/library/publications/2021/demo/p70-167.pdf)
+
+
 # Step 2 : critique the data visualization
 
 For this part I already completed a critique using Stephen Few's Data Visualization Effectiveness Profile http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf. 
