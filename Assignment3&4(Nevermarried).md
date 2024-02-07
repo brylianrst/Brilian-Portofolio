@@ -2,8 +2,8 @@
 
 # Assignment 3 & 4: Critique by Design with Tableau (MakeoverMonday)
 
-##Brilian Pracoyo Adi
-##badi@andrew.cmu.edu
+## Brilian Pracoyo Adi
+## badi@andrew.cmu.edu
 
 # Step 1 : choose a data visualization from MakeoverMonday
 
