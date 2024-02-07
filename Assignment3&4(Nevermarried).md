@@ -1,4 +1,4 @@
-![image](https://github.com/brylianrst/Brilian-Portofolio/assets/143753578/1d7d8033-c92e-4d8c-8834-0d916b678702)| [portofolio](https://github.com/brylianrst/Brilian-Portofolio) | | [webpage]( https://brylianrst.github.io/Brilian-Portofolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+[portofolio](https://github.com/brylianrst/Brilian-Portofolio) | | [webpage]( https://brylianrst.github.io/Brilian-Portofolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Assignment 3 & 4: Critique by Design with Tableau (MakeoverMonday)
 
