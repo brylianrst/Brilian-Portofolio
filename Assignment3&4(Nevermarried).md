@@ -10,8 +10,9 @@ For step one, I tried to scan around 10-25 types of data visualization that i wa
 
 ![image](https://github.com/brylianrst/Brilian-Portofolio/assets/143753578/37d9d3c2-a702-4164-a17f-dae1f6533b4d)
 
-[this is the link to my choosen MakeoverMonday :]([https://github.com/brylianrst/Brilian-Portofolio](https://data.world/makeovermonday/2021w23)) 
-[this is the link to the watch me viz :](https://www.youtube.com/watch?v=MwtsrcioMHI&list=PLX-uPHRG0cLb697Ie-ZGSObRLLNhxzJGK&index=89&t=2630s))) 
+[link to my choosen MakeoverMonday](https://data.world/makeovermonday/2021w23)
+
+[link to the watch me viz](https://www.youtube.com/watch?v=MwtsrcioMHI&list=PLX-uPHRG0cLb697Ie-ZGSObRLLNhxzJGK&index=89&t=2630s)
 
 # Step 2 : critique the data visualization
 
