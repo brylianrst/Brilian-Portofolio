@@ -1,4 +1,4 @@
-| [portofolio](https://github.com/brylianrst/Brilian-Portofolio) | | [webpage]( https://brylianrst.github.io/Brilian-Portofolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+![image](https://github.com/brylianrst/Brilian-Portofolio/assets/143753578/1d7d8033-c92e-4d8c-8834-0d916b678702)| [portofolio](https://github.com/brylianrst/Brilian-Portofolio) | | [webpage]( https://brylianrst.github.io/Brilian-Portofolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Assignment 3 & 4: Critique by Design with Tableau (MakeoverMonday)
 
@@ -62,7 +62,7 @@ This method solidifies many things related to how to effectively tell stories wi
 
 Now that i haved developed some ideas around how to improve the data visualization I selected with the critique i did before and also other insights that comes in mind alongwards, in step three I already created around 6 different sketches, but ended up coming with only 4 sketches using tableau that i think can answer my doubts on how to make the redesigning much better than the original image. 
 
-**1st sketch**
+## 1st Sketch
 
 <div class='tableauPlaceholder' id='viz1707266438027' style='position: relative'><noscript><a href='#'><img alt='Dashboard1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;Nevermarriedsketch1&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Nevermarriedsketch1&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;Nevermarriedsketch1&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>               
 
@@ -78,7 +78,7 @@ Change of View Orientation :
 Additional changes :
 
 
-**2nd sketch**
+## 2nd Sketch
 
 <div class='tableauPlaceholder' id='viz1707266960678' style='position: relative'><noscript><a href='#'><img alt='Dashboard2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;Nevermarriedsketch2&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Nevermarriedsketch2&#47;Dashboard2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;Nevermarriedsketch2&#47;Dashboard2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> 
 
@@ -92,7 +92,7 @@ Change of Fonts :
 Change of View Orientation : 
 Additional changes :
 
-**3rd sketch**
+## 3rd Sketch
 
 
 <div class='tableauPlaceholder' id='viz1707267006074' style='position: relative'><noscript><a href='#'><img alt='Dashboard3 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;Nevermarriedsketch3&#47;Dashboard3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Nevermarriedsketch3&#47;Dashboard3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;Nevermarriedsketch3&#47;Dashboard3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>     
@@ -107,7 +107,7 @@ Change of View Orientation :
 Additional changes :
 
 
-**4th sketch**
+## 4th Sketch
 
 <div class='tableauPlaceholder' id='viz1707267049716' style='position: relative'><noscript><a href='#'><img alt='Dashboard4 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;Nevermarriedsketch4&#47;Dashboard4&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Nevermarriedsketch4&#47;Dashboard4' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;Nevermarriedsketch4&#47;Dashboard4&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> 
 
