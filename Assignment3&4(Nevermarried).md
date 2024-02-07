@@ -9,6 +9,7 @@ For step one, I tried to scan around 10-25 types of data visualization that i wa
 ![image](https://github.com/brylianrst/Brilian-Portofolio/assets/143753578/37d9d3c2-a702-4164-a17f-dae1f6533b4d)
 
 this is the link to my choosen MakeoverMonday : https://data.world/makeovermonday/2021w23
+
 this is the link to the watch me viz : https://www.youtube.com/watch?v=MwtsrcioMHI&list=PLX-uPHRG0cLb697Ie-ZGSObRLLNhxzJGK&index=89&t=2630s
 
 # Step 2 : critique the data visualization
@@ -69,15 +70,15 @@ Now that i haved developed some ideas around how to improve the data visualizati
 
 In this sketching, i try to redesign the visualization to portray it differently from the original image also try to add another data to tell :
 
-Change of Graph Colors : As in the critique before that i mention about changing colors, i actually implement my own critique to choose different colors that are more softer but still represents the different gender (women and men). for women i chose aqua for 2016 census year and light aqua for 2006 census year, for men i chose orange for 2016 census year and light orange for 2006 census year. As from previous original graph, the colors are only red for woman on both year, and purple for man on both year. In my sketches design, in my opinion it drastically improve the segmentation purpose more clearly than the original ones.
+**Change of Graph Colors :** As in the critique before that i mention about changing colors, i actually implement my own critique to choose different colors that are more softer but still represents the different gender (women and men). for women i chose aqua for 2016 census year and light aqua for 2006 census year, for men i chose orange for 2016 census year and light orange for 2006 census year. As from previous original graph, the colors are only red for woman on both year, and purple for man on both year. In my sketches design, in my opinion it drastically improve the segmentation purpose more clearly than the original ones.
 
-Change of Headlines : Also i changed headlines because i think the original ones doesnt clearly articulate or show a valid picture of what the graph tells, i changed it to "WOMEN AND MEN ACROSS ALL AGE GROUPS, THE PERCENTAGE OF NEVER MARRIED HAS INCREASED FROM 2006 TO 2016 in the U.S" to improve more clarity that the rise is happening in US since the census is from US census bureau, and also the year clearly articulated in the headline as well. Also i tried to to use colors for the headlines to easily make the intuitiveness and perception of the reader increased because it is easy to navigate and to understand. 
+**Change of Headlines :** Also i changed headlines because i think the original ones doesnt clearly articulate or show a valid picture of what the graph tells, i changed it to "WOMEN AND MEN ACROSS ALL AGE GROUPS, THE PERCENTAGE OF NEVER MARRIED HAS INCREASED FROM 2006 TO 2016 in the U.S" to improve more clarity that the rise is happening in US since the census is from US census bureau, and also the year clearly articulated in the headline as well. Also i tried to to use colors for the headlines to easily make the intuitiveness and perception of the reader increased because it is easy to navigate and to understand. 
 
-Change of Brief Explanation : I change the explanation brief below the heading to "increment from 2006 to 2016 showed in percentage" because i also wanted to tell the audience how much percentage increased from 2006 to 2016.
+**Change of Brief Explanation :** I change the explanation brief below the heading to "increment from 2006 to 2016 showed in percentage" because i also wanted to tell the audience how much percentage increased from 2006 to 2016.
 
 Change of Graph View Orientation : I also changed the view orientation of the bar chart, to make it horizontal instead of vertical, this is for experimenting if it will increase the clarity of the visualization or not, but i think it actually does. i also change the variables to make it grouping woman across all age, and man across all age in different sections instead same sections
 
-Additional changes : For the additional changes that i made, i tried to group the graph based on gender and age horizontally, and make the y-axis represents the percentage of never married adults instead, i also add source and citaations in below.
+**Additional changes :** For the additional changes that i made, i tried to group the graph based on gender and age horizontally, and make the y-axis represents the percentage of never married adults instead, i also add source and citaations in below.
 
 
 ## 2nd Sketch
@@ -86,11 +87,11 @@ Additional changes : For the additional changes that i made, i tried to group th
 
 For this sketch i intentionally tried to make it the same as sketch 1 for the Change of Graph Colors and Change of Headlines since i found it a great narrative and visual for experimenting for the gathering feedback from others.
 
-Change of Brief Explanation : I change the explanation brief below the headlng to "The percentage below representing never married adults percentage based on age and gender grouping" because i also wanted to show the audience percentage per each of the bar charts, i think it creates more clarity towards each of the data and what it tries to tell the audience.
+**Change of Brief Explanation :** I change the explanation brief below the headlng to "The percentage below representing never married adults percentage based on age and gender grouping" because i also wanted to show the audience percentage per each of the bar charts, i think it creates more clarity towards each of the data and what it tries to tell the audience.
 
-Change of Graph View Orientation : I also keep the view orientation of the barchart as the same vertical as the original, but i tried to make it visually rising, since it can be done by reversing the age groups, because in my opinion the original graph actually show downtrends not a rising trend as far as the eye can see imemdiately, and also i tried to make a comparison between women 2016 with women 2006 bar chart, and men 2016 and men 2006 bar chart instead of having men and women side by side. I think the purpose of this is because if we want to compare the same gender, the other gender bar chart kinda blocks our way, so i think this is necessary to change.
+**Change of Graph View Orientation :** I also keep the view orientation of the barchart as the same vertical as the original, but i tried to make it visually rising, since it can be done by reversing the age groups, because in my opinion the original graph actually show downtrends not a rising trend as far as the eye can see imemdiately, and also i tried to make a comparison between women 2016 with women 2006 bar chart, and men 2016 and men 2006 bar chart instead of having men and women side by side. I think the purpose of this is because if we want to compare the same gender, the other gender bar chart kinda blocks our way, so i think this is necessary to change.
 
-Additional changes : For the additional changes that i made, i tried to group the graph based on gender and age. and make the y-axis represents the percentage of never married adults instead, i also add source and citaations in below. I also add legends for colors to make it more easy to understand and navigate.
+**Additional changes :** For the additional changes that i made, i tried to group the graph based on gender and age. and make the y-axis represents the percentage of never married adults instead, i also add source and citaations in below. I also add legends for colors to make it more easy to understand and navigate.
 
 
 ## 3rd Sketch
@@ -100,15 +101,15 @@ Additional changes : For the additional changes that i made, i tried to group th
 
 In this sketching, i try to redesign the visualization to portray it differently from the original image also try to add another data to tell :
 
-Change of Colors : For this sketch I try to use different colors for experimenting which sketches will be more appealing to the audience, also which one work best to portray the genders. other reasons are the same as sketches before.
+**Change of Colors :** For this sketch I try to use different colors for experimenting which sketches will be more appealing to the audience, also which one work best to portray the genders. other reasons are the same as sketches before.
 
-Change of Headlines : I try to experiment changing the headline as well, this one i change it to "THE RISE OF NEVER MARRIED ADULTS BOTH WOMEN AND MEN IN THE U.S IN FROM 2006 TO 2016" to actually says the word rise but with more added information of the country and the time frame, different from the original image which doesnt include this.
+**Change of Headlines :** I try to experiment changing the headline as well, this one i change it to "THE RISE OF NEVER MARRIED ADULTS BOTH WOMEN AND MEN IN THE U.S IN FROM 2006 TO 2016" to actually says the word rise but with more added information of the country and the time frame, different from the original image which doesnt include this.
 
-Change of Brief Explanation : this is the same as 2nd sketch, "The percentage below representing never married adults percentage based on age and gender grouping".
+**Change of Brief Explanation :** this is the same as 2nd sketch, "The percentage below representing never married adults percentage based on age and gender grouping".
 
-Change of Graph View Orientation : In this graph i tried to experiment something different using line chart to with the similiar grouping as the 1st sketch horizontally and splitting between genders. I do this to try to see if using another form of charts rather than bar chart can help portray the information much better.
+**Change of Graph View Orientation :** In this graph i tried to experiment something different using line chart to with the similiar grouping as the 1st sketch horizontally and splitting between genders. I do this to try to see if using another form of charts rather than bar chart can help portray the information much better.
 
-Additional changes : I change the variables location between rows and columns, trying to see different perspectives and angles that we can tell to the audience. In this case i make the years and age on x-axis and the percentage on the y-axis, different from the previous 2 sketches, since i want to experiment which one works better for the perception of the audience which i will ask feedback on. I also add legends for the genders with the different groups and age range.
+**Additional changes :** I change the variables location between rows and columns, trying to see different perspectives and angles that we can tell to the audience. In this case i make the years and age on x-axis and the percentage on the y-axis, different from the previous 2 sketches, since i want to experiment which one works better for the perception of the audience which i will ask feedback on. I also add legends for the genders with the different groups and age range.
 
 
 ## 4th Sketch
@@ -120,11 +121,11 @@ In this sketching, i try to redesign the visualization to portray it differently
 
 For this sketch i intentionally tried to make it the same as sketch 3 for the Change of Graph Colors and Change of Headlines since i found it a great narrative and visual for experimenting for the gathering feedback from others. So i planned to split sketch 1-2 having the same colors and headline, and sketch 3-4 having the same colors and headline. Because i think those colors are enough to portray my own critique, but it just needs adjustment in the graph and how you want to portray the data.
 
-Change of Brief Explanation : this is the same as 3rd sketch, "The percentage below representing never married adults percentage based on age and gender grouping".
+**Change of Brief Explanation :** this is the same as 3rd sketch, "The percentage below representing never married adults percentage based on age and gender grouping".
 
-Change of Graph View Orientation : In this graph i tried to use bar chart again but trying to make it downtrend again like the orginial, just to see others feedback on which one is more easy to navigate and understandable according to the headline if you see an uptrend or downtrend. I also use the same variables position and segmentation as the 2nd sketch.
+**Change of Graph View Orientation :** In this graph i tried to use bar chart again but trying to make it downtrend again like the orginial, just to see others feedback on which one is more easy to navigate and understandable according to the headline if you see an uptrend or downtrend. I also use the same variables position and segmentation as the 2nd sketch.
 
-Additional changes : Since i want to experiment which one works better for the perception of the audience which i will ask feedback on. I also add legends for the genders with the different groups and age range. This change actually trying to make 2nd sketch reversed and experimenting the details to make the different persepective and can be intrigue people to give more variety of feedback and opinion.
+**Additional changes :** Since i want to experiment which one works better for the perception of the audience which i will ask feedback on. I also add legends for the genders with the different groups and age range. This change actually trying to make 2nd sketch reversed and experimenting the details to make the different persepective and can be intrigue people to give more variety of feedback and opinion.
 
 
 # Step 4 : Test the solution
