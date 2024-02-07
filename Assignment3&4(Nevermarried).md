@@ -223,16 +223,24 @@ For this final step, i tried to implement the feedback that i received for my pr
 
 ## Final Solution
 
+<div class='tableauPlaceholder' id='viz1707278690728' style='position: relative'><noscript><a href='#'><img alt='Dashboard1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;Nevermarriedsketch8&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Nevermarriedsketch8&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ne&#47;Nevermarriedsketch8&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 
+In this sketching, i try to redesign the visualization to portray it according to the feedback that the assesment result gives below :
 
-In this sketching, i try to redesign the visualization to portray it differently from the original image also try to add another data to tell :
+1. i try to make it to be consistent between sketches, but i intentionally did this to see which order more make sense, and most of them see sketches 1 and 2 more make sense with the headline and the context (different than the original image order)
+2. The first sketch tend to make more sense since the rising make more sense and also it is easily to navigate. The components are organized more cohesively than the others, aiding in intuitive reading. Because all info required are depicted within the picture without neccessary to look at the legend (notes) below the graph.
+Easy to read and digest.
+3. As for the color it looks like a tie, but i think the third and four sketch has more contrast color which is more great to segment gender (pink and blue)
+4. All agreed on The rise of never married adults both men and women
+   
+**Change of Colors :** For this sketch I try to use the colors feedback that i gathered from 4 people and it has pretty much the same pattern of agreement, these colors seem to be more appealing and easy to navigate segmentations of gender. I change it to light blue, blue, light pink, and pink as discussed above in the feedback section. I also change the headline colors to make it easy to understand and correlate between the headline and the graph.
 
-**Change of Colors :** For this sketch I try to use different colors for experimenting which sketches will be more appealing to the audience, also which one work best to portray the genders. other reasons are the same as sketches before.
+**Change of Headlines :** I try to to change the headlin to "THE RISE OF NEVER MARRIED ADULTS BOTH WOMEN AND MEN IN THE U.S IN FROM 2006 TO 2016" to actually says the word rise as intended for the readers and it make more sense to put it according to the feedback as well.
 
-**Change of Headlines :** I try to experiment changing the headline as well, this one i change it to "THE RISE OF NEVER MARRIED ADULTS BOTH WOMEN AND MEN IN THE U.S IN FROM 2006 TO 2016" to actually says the word rise but with more added information of the country and the time frame, different from the original image which doesnt include this.
+**Change of Brief Explanation :** I try to change this one to make more clarity of what the graph and bar line in the graph, because it enhance the intuition and perception more clearer, "The increment change of never married adults percentage from 2006 to 2016,  showed in small bar percentage ".
 
-**Change of Brief Explanation :** this is the same as 2nd sketch, "The percentage below representing never married adults percentage based on age and gender grouping".
+**Change of Graph View Orientation :** In this graph i mostly use bar charts with horizontal view as per the sketch 1 since all the components are there and easily read this way, it is also really great to portray the segmentation between gender and also the rise can be seen as well.
 
-**Change of Graph View Orientation :** In this graph i tried to experiment something different using line chart to with the similiar grouping as the 1st sketch horizontally and splitting between genders. I do this to try to see if using another form of charts rather than bar chart can help portray the information much better. I also tried to make it to look downtrend as to experiment how the audience see it pretty normal, or not inline with the headline which is rising, since the original image is also looking downtrend.
+As for me personally this chart really creates a great impression of story to tell the audience of THE RISE OF NEVER MARRIED ADULTS BOTH WOMEN AND MEN IN THE U.S IN FROM 2006 TO 2016
+and directly shown the increment change of never married adults percentage from 2006 to 2016, that showed in small bar percentage, which is a really great additional information which can make people intuitively make sense of the graph. All components are established bautifully and appealing as well. The source already there as well to make sure of the validity of the data. In my opinion the redesign is more clearer and easy to navigate than the original one.
 
-**Additional changes :** I change the variables location between rows and columns, trying to see different perspectives and angles that we can tell to the audience. In this case i make the years and age on x-axis and the percentage on the y-axis, different from the previous 2 sketches, since i want to experiment which one works better for the perception of the audience which i will ask feedback on. I also add legends for the genders with the different groups and age range.
