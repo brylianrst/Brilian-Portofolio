@@ -163,7 +163,7 @@ For this sketch i intentionally tried to make it the same as sketch 3 for the Ch
 
 # Step 4 : Test the solution
 
-For this step, i already tried to share my sketches with three different people and ask for their feedback. I also try to not walk them through my visualization.  Rather, i let them to see my sketches without any guidance, i want to see if they can understand the basics of my designs without me having to explain too much to them. I just said i create this using tableau and please answer several of these questions for my assignment, and they directly response without asking clarification for my image (which i think i have several sketches that easy to understand what i wanted to portray).
+For this step, i already tried to share my sketches with four different people and ask for their feedback. I also try to not walk them through my visualization.  Rather, i let them to see my sketches without any guidance, i want to see if they can understand the basics of my designs without me having to explain too much to them. I just said i create this using tableau and please answer several of these questions for my assignment, and they directly response without asking clarification for my image (which i think i have several sketches that easy to understand what i wanted to portray).
 
 this is my simple script that i use as a way to take notes as i move forwad.   
 
