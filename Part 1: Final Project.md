@@ -16,9 +16,12 @@ The consequences of climate change include rising temperatures, changing precipi
 In this project, I will utilize data visualization to illustrate :
 
 •	Energy consumption trends over time and geographically
-•	Electricity Generation trends over time and geographically, 
-•	Environmental impact of electricity consumption/generation. Visualization of key statistics on carbon emissions, energy usage, and environmental degradation.
-•	Infographic highlighting the environmental benefits or milestones of Earth Hour.
+
+•	Electricity Generation trends over time and geographically 
+
+•	Environmental impact of electricity consumption/generation. Visualization of key statistics on carbon emissions, energy usage, and environmental degradation
+
+•	Infographic highlighting the environmental benefits or milestones of Earth Hour
 
 And also I will add how are the ways as information students can help to reduce the energy consumption in order to help save our earth from climate change, By engaging students through compelling visualizations and storytelling, the goal is to inspire them to take action and participate in Earth Hour initiatives.
 
