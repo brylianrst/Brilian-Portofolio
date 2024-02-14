@@ -2,7 +2,7 @@
 
 # Part 1: Final Project
 
-# Brilian Pracoyo Adi (badi@andrew.cmu.edu)
+## Brilian Pracoyo Adi (badi@andrew.cmu.edu)
 
 # Outline
 
