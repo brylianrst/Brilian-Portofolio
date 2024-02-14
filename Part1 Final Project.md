@@ -22,7 +22,9 @@ Additionally, my project will include an infographic showcasing the environmenta
 
 ### Introduction
 
-•	Energy consumption trends over time and geographically.
+The world primary energy consumption in the world keep increasing anually, this includes energy such as electricity, heat, etc. As we can see there are China, India, Indonesia, United States, and the world curve in the graph, each of them showing increase in energy consumption which is pretty significant.
+
+**Curve Trend**
 
 <div class='tableauPlaceholder' id='viz1707882572599' style='position: relative'><noscript><a href='#'><img alt='World Primary Energy ConsumptionPrimary energy consumption is measured in terawatt-hours, using the substitution method. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ta&#47;TableauEnergyConsumptionworld&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TableauEnergyConsumptionworld&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ta&#47;TableauEnergyConsumptionworld&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
@@ -34,7 +36,9 @@ Additionally, my project will include an infographic showcasing the environmenta
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+This is the geographic map version of the data above, which can emphasize more on the energy consumption per countries.
 
+**Geographic map** 
 
 <div class='tableauPlaceholder' id='viz1707882644714' style='position: relative'><noscript><a href='#'><img alt='World Primary Energy Consumption MapPrimary energy consumption is measured in terawatt-hours, using the substitution method. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MD&#47;MD7KR8D24&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;MD7KR8D24' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MD&#47;MD7KR8D24&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
@@ -47,7 +51,9 @@ Additionally, my project will include an infographic showcasing the environmenta
 </script>
 
 
-•	Electricity Generation trends over time and geographically.
+The world Electricity generation in the world keep increasing as well anually, this includes only electricity energy. As we can see there are China, India, Indonesia, United States, and the world curve in the graph, each of them showing increase in energy consumption which is pretty significant.
+
+**Curve Trend**
 
 <div class='tableauPlaceholder' id='viz1707882818119' style='position: relative'><noscript><a href='#'><img alt='World Electricity GenerationElectricity is measured in terawatt-hours ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ta&#47;TableauElectricGeneration&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TableauElectricGeneration&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ta&#47;TableauElectricGeneration&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
@@ -59,6 +65,10 @@ Additionally, my project will include an infographic showcasing the environmenta
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+This is the geographic map version of the data above, which can emphasize more on the electric consumption per countries.
+
+**Geographic map** 
+
 <div class='tableauPlaceholder' id='viz1707882942475' style='position: relative'><noscript><a href='#'><img alt='World Electricity Generation MapElectricity is measured in terawatt-hours ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ta&#47;TableauElectricGenerationMap&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TableauElectricGenerationMap&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ta&#47;TableauElectricGenerationMap&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1707882942475');                    
@@ -69,19 +79,21 @@ Additionally, my project will include an infographic showcasing the environmenta
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-•	Explanation of Earth Hour and its significance.
-
-Earth Hour is a really positive and impactful event that happens once a year, usually at the end of March. It's organized by a group called the World Wide Fund for Nature (WWF). During Earth Hour, people all around the world turn off unnecessary lights and appliances for just one hour, from 8:30 p.m. to 9:30 p.m. local time.
-The point of Earth Hour is to raise awareness about important environmental issues, especially climate change. By switching off lights and saving electricity for that one hour, we show that even small actions can make a big difference in helping the planet
-
-But Earth Hour isn't just about turning off lights. It's also about encouraging everyone to think about how they use energy every day and how they can do it in a more eco-friendly way. It's like a reminder to be more mindful of the environment and to try to use resources wisely.
-
-What's really awesome about Earth Hour is that it brings people together from all over the world. Millions of people take part, showing that we all care about the planet and want to work together to protect it. Whether you're in a big city or a small town, participating in Earth Hour can make you feel like you're part of a global team that's making a positive impact.
-Earth Hour is not just about turning off lights—it's about raising awareness, promoting sustainable habits, and joining forces to make the world a better place for everyone.
-
 ### The Problem
 
-•	Environmental impact of energy consumption. Visualization of key statistics on carbon emissions, energy usage, and environmental degradation.
+Energy production is vital for modern life, but a significant portion of it relies on sources that release harmful gases into the atmosphere. These gases are major contributors to the ongoing climate crisis we are facing.
+
+When power plants burn fossil fuels such as coal, oil, and natural gas, as well as biomass or municipal and industrial wastes, they emit a range of gases and toxins. Among these pollutants are carbon dioxide (CO2), sulfur dioxide (SO2), carbon monoxide (CO), nitrogen oxides (NOx), particulate matter (PM), and heavy metals. Each of these byproducts has negative impacts on the environment. For instance, CO2 is a greenhouse gas that contributes to global warming by trapping heat in the Earth's atmosphere. SO2 emissions can lead to acid rain, which harms ecosystems, plants, and animals.
+
+The level of our energy consumption directly affects the amount of emissions released into the environment. The more energy we use, the more electricity plants need to produce to meet our demands, resulting in higher emissions of these harmful gases and pollutants. In the United States, for example, the majority of electricity generation in 2021 came from plants burning fossil fuels and other sources, amplifying the environmental impact of our energy consumption.
+
+To put it into perspective, in 2017, approximately 28% of total global emissions were attributed to electricity generation, making it the second-largest contributor to greenhouse gas emissions after transportation, which accounted for 29%. This highlights the significant role of energy production in exacerbating climate change and environmental degradation.
+
+Therefore, it is essential to recognize the connection between our energy consumption and its environmental consequences. By making conscious choices to reduce our energy usage, transition to cleaner energy sources, and support sustainable practices, we can all play a part in mitigating the negative impacts of energy production on the environment and combating climate change.
+
+Below are the graphs of the amount of Fossil Fuel Combustion Carbon dioxide and also other gasses that been address per 5 years :
+
+**Fossil Fuel Combustion : Carbon dioxide**
 
 <div class='tableauPlaceholder' id='viz1707883093726' style='position: relative'><noscript><a href='#'><img alt='U.S Greenhouse Gas Emissions from Electric Power Industry, by Category, 1990-2021Emmisions (million metric tons) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ta&#47;TableauElectriccombustion&#47;Sheet23&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TableauElectriccombustion&#47;Sheet23' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ta&#47;TableauElectriccombustion&#47;Sheet23&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
@@ -93,6 +105,8 @@ Earth Hour is not just about turning off lights—it's about raising awareness, 
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+**Fossil Fuel Combustion : Other Green House Gases**
+
 <div class='tableauPlaceholder' id='viz1707883141779' style='position: relative'><noscript><a href='#'><img alt='U.S Greenhouse Gas Emissions from Electric Power Industry, by Category, 1990-2021Emmisions (million metric tons) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ta&#47;TableauElectriccombustion2&#47;Sheet22&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TableauElectriccombustion2&#47;Sheet22' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ta&#47;TableauElectriccombustion2&#47;Sheet22&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1707883141779');                    
@@ -103,24 +117,47 @@ Earth Hour is not just about turning off lights—it's about raising awareness, 
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-Climate Change: When we burn fossil fuels like coal, oil, and gas for energy, they release gases like carbon dioxide into the air. These gases trap heat in the Earth's atmosphere, causing global warming and changes in our climate. This can lead to more extreme weather, higher sea levels, and problems for plants and animals.
+The amounts are big so in that case this is a serious problem that we need to solve in order to fight climate change and make our earth safe, iin that case we need a call to action, and as students, we can participate to fight this in different ways, but first its good to know what Earth Hour and its initiative, and how we can be a part of it and emphasize the initiative with our own way.
 
-### Earth Hour Impact and Milestone so far
+### Call to Action
+
+#### Earth Hour and its significance
+
+Earth Hour is a really positive and impactful event that happens once a year, usually at the end of March. It's organized by a group called the World Wide Fund for Nature (WWF). During Earth Hour, people all around the world turn off unnecessary lights and appliances for just one hour, from 8:30 p.m. to 9:30 p.m. local time.
+The point of Earth Hour is to raise awareness about important environmental issues, especially climate change. By switching off lights and saving electricity for that one hour, we show that even small actions can make a big difference in helping the planet
+
+But Earth Hour isn't just about turning off lights. It's also about encouraging everyone to think about how they use energy every day and how they can do it in a more eco-friendly way. It's like a reminder to be more mindful of the environment and to try to use resources wisely.
+
+What's really awesome about Earth Hour is that it brings people together from all over the world. Millions of people take part, showing that we all care about the planet and want to work together to protect it. Whether you're in a big city or a small town, participating in Earth Hour can make you feel like you're part of a global team that's making a positive impact.
+Earth Hour is not just about turning off lights—it's about raising awareness, promoting sustainable habits, and joining forces to make the world a better place for everyone.
+
+#### Earth Hour Impact and Milestone so far
 
 Infographic highlighting the environmental benefits or milestones of Earth Hour.
 
 ![warna](https://github.com/brylianrst/Brilian-Portofolio/assets/143753578/4c1419ce-4f67-4913-a74d-ee636af34c93)
 
+#### How Can We Contribute
 
-### Call to Action
+As an Information systems students, we can contribute to addressing climate change and environmental issues in several ways. Here are some potential actions that we can try :
 
-•	Emphasize the importance of individual actions in combatting climate change.
-•	Provide practical tips and suggestions for sustainable living beyond Earth Hour.
+**Turn off Electricity:** Students can participate in yearly 1 light turn off event or even do it every night, because every energy consumption leads to climate change
 
-### Conclusion
+**Developing Sustainable Information Systems:** Students can focus on designing and implementing information systems that promote sustainability and reduce environmental impacts. This could involve developing software applications to optimize energy efficiency, manage resources more effectively, or facilitate the transition to renewable energy sources.
 
-•	Recap of key insights from the campaign.
-•	Reinforcement of the significance of environmental stewardship.
+**Data Analysis for Environmental Monitoring:** Information systems students can use their skills in data analysis and visualization to analyze environmental data, such as air and water quality measurements, climate data, or satellite imagery. By identifying patterns, trends, and anomalies in environmental data, students can contribute to better understanding environmental issues and informing decision-making processes.
+
+**Building Environmental Monitoring Technologies:** Students can work on developing innovative technologies for environmental monitoring and data collection, such as sensor networks, drones, or IoT devices. These technologies can help monitor air and water quality, track biodiversity, or detect pollution sources more effectively, providing valuable data for environmental management and policy-making.
+
+**Creating Environmental Awareness Campaigns:** Information systems students can leverage their communication and design skills to create awareness campaigns and educational materials about environmental issues. This could involve developing websites, mobile apps, or social media campaigns to raise awareness, promote sustainable behaviors, or engage the public in environmental conservation efforts.
+
+**Supporting Environmental Research:** Students can collaborate with researchers and environmental organizations to support scientific research and data analysis related to climate change and environmental issues. This could involve developing software tools, databases, or modeling applications to support research projects, analyze large datasets, or simulate environmental scenarios.
+
+**Promoting Sustainable Practices in Organizations:** Information systems students can advocate for sustainability and environmental responsibility within organizations by promoting the adoption of green IT practices, such as energy-efficient computing, virtualization, and cloud computing. They can also help organizations implement sustainability initiatives, such as electronic document management systems, telecommuting programs, or eco-friendly procurement policies.
+
+**Engaging in Policy and Advocacy Efforts:** Students can get involved in policy and advocacy efforts related to climate change and environmental issues by leveraging their technical expertise and knowledge of information systems. This could involve advocating for policies that promote renewable energy, data transparency, environmental protection, or sustainability in technology development and deployment.
+
+And Many more initiatives and action that can be think forward.
 
 # Data
 
@@ -176,4 +213,4 @@ https://ourworldindata.org/co2-and-greenhouse-gas-emissions
 
 # Method and medium
 
-The final project will be created using Tableau for data visualization and Shorthand for storytelling. Tableau will be utilized to generate interactive visualizations depicting energy consumption patterns, carbon emissions data, and the impact of Earth Hour. Shorthand will serve as the platform for presenting the campaign narrative, integrating data visualizations with explanatory text and multimedia elements. The interactive nature of the final product will enable students to engage with the content and gain a deeper understanding of environmental issues and the importance of sustainable practices.
+My final project will be created using Tableau for data visualization and Shorthand for storytelling. I will utilize Tableau to generate interactive visualizations depicting energy consumption patterns, carbon emissions data, electricity generation data, and other relevant data to create a better presentation. I will also utilize Shorthand as the platform for presenting my story telling narrative, integrating data visualizations with explanatory text and multimedia elements. My final presentation deck I hope will enable students to engage with the content and gain a deeper understanding and awareness of environmental issues and the importance of sustainable practices in the future.
