@@ -65,14 +65,56 @@ Infographic highlighting the environmental benefits or milestones of Earth Hour.
 
 A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data.
 
-Text here…
+I have been searching all over the internet across government, industry, and global outlook websites etc to find data sources that related to climate change, energy generation, energy consumption, electricity generation, electricity consumption, gas emission, global greenhouse, CO₂ and Greenhouse Gas Emissions, and many other things related to the affect of energy generation and consumption towards climate change.
 
-A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you’ve uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged. If you anticipate using a data source other than something that would be publicly available please talk to me first.
+A link to the publicly-accessible datasets I plan to use for this final project.
 
 Name	URL	Description
- 	 	 
+
+Energy Production and Consumption
+https://ourworldindata.org/energy-production-consumption
+Explore data on how energy production and use varies across the world.
+
+Primary energy consumption, 2022
+Primary energy consumption is measured in terawatt-hours, using the substitution method.
+https://ourworldindata.org/energy
+
+Electricity generation, 2022
+Measured in terawatt-hours.
+https://ourworldindata.org/energy
+
+Electricity Mix
+Explore data on where our electricity comes from, and how this is changing.
+https://ourworldindata.org/electricity-mix
+
+Electricity Consumption
+U.S. Energy Information Administration
+https://www.eia.gov/international/data/world/electricity/electricity-consumption
+
+Electricity domestic consumption
+Global electricity consumption comes closer to its historical growth trend (+2% in 2022).
+https://yearbook.enerdata.net/electricity/electricity-domestic-consumption-data.html
+
+Electric power consumption (kWh per capita)
+IEA Statistics © OECD/IEA 2014 ( iea.org/data-and-statistics ), subject to iea.org/terms
+https://data.worldbank.org/indicator/EG.USE.ELEC.KH.PC
+
+Greenhouse Gas Inventory Data Explorer
+https://cfpub.epa.gov/ghgdata/inventoryexplorer/#electricpowerindustry/entiresector/allgas/category/all
+
+Inventory of U.S. Greenhouse Gas Emissions and Sinks
+https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks
+
+Sources of Greenhouse Gas Emissions
+https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions#electricity
+
+Global Greenhouse Gas Emissions Data
+https://www.epa.gov/ghgemissions/global-greenhouse-gas-emissions-data#Reference%201
+
+CO₂ and Greenhouse Gas Emissions
+https://ourworldindata.org/co2-and-greenhouse-gas-emissions
+
+
 # Method and medium
 
-In a few sentences, you should document how you plan on completing your final project.
-
-Text here… 	 	 
+The final project will be created using Tableau for data visualization and Shorthand for storytelling. Tableau will be utilized to generate interactive visualizations depicting energy consumption patterns, carbon emissions data, and the impact of Earth Hour. Shorthand will serve as the platform for presenting the campaign narrative, integrating data visualizations with explanatory text and multimedia elements. The interactive nature of the final product will enable students to engage with the content and gain a deeper understanding of environmental issues and the importance of sustainable practices.
