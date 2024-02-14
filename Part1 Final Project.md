@@ -146,13 +146,13 @@ Earth Hour is not just about turning off lights—it's about raising awareness, 
 
 ![warna](https://github.com/brylianrst/Brilian-Portofolio/assets/143753578/4c1419ce-4f67-4913-a74d-ee636af34c93)
 
-#### How Can We Contribute 
+#### How Can We Contribute as a Student
 
-For the audience of information systems students, I believe there are numerous ways we can contribute to addressing climate change and environmental issues. Here are some potential actions that we can consider:
+For the **audience of information systems students,** I believe there are numerous ways we can contribute to addressing climate change and environmental issues. Here are some potential actions that we can consider:
 
 Firstly, we can actively participate in initiatives such as turning off lights for designated periods, either annually or nightly. This small effort can collectively reduce energy consumption, which is a significant driver of climate change.
 
-Moreover, we can focus on developing sustainable information systems. By designing and implementing software applications that prioritize energy efficiency, resource management, and the adoption of renewable energy sources, we can contribute to reducing environmental impacts.
+Secondly, we can focus on developing sustainable information systems. By designing and implementing software applications that prioritize energy efficiency, resource management, and the adoption of renewable energy sources, we can contribute to reducing environmental impacts.
 
 Additionally, our skills in data analysis and visualization can be valuable in monitoring environmental parameters. Through the analysis of environmental data such as air and water quality measurements, climate data, and satellite imagery, we can uncover insights that inform decision-making processes and aid in understanding environmental issues.
 
@@ -216,7 +216,7 @@ https://ourworldindata.org/co2-and-greenhouse-gas-emissions
 
 My final project will be created using Tableau for data visualization and Shorthand for storytelling. I will utilize Tableau to generate interactive visualizations depicting energy consumption patterns, carbon emissions data, electricity generation data, and other relevant data to create a better presentation. I will also utilize Shorthand as the platform for presenting my story telling narrative, integrating data visualizations with explanatory text and multimedia elements. My final presentation deck I hope will enable students to engage with the content and gain a deeper understanding and awareness of environmental issues and the importance of sustainable practices in the future.
 
-#Citation
+## Citation
 [1] U.S Energy Information Administration. 2021. “Electricity and the Environment - U.S. Energy Information Administration (EIA).” Eia.gov. U.S. Energy Information Administration. December 6, 2021. https://www.eia.gov/energyexplained/electricity/electricity-and-the-environment.php.
 [2] Energy, Just. 2023. “Impact of Energy Production and Consumption the Environment.” Just Energy. August 24, 2023. https://justenergy.com/blog/impact-of-energy-production-consumption-environment/.
 
