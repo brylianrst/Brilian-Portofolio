@@ -219,8 +219,9 @@ https://ourworldindata.org/co2-and-greenhouse-gas-emissions
 My final project will be created using Tableau for data visualization and Shorthand for storytelling. I will utilize Tableau to generate interactive visualizations depicting energy consumption patterns, carbon emissions data, electricity generation data, and other relevant data to create a better presentation. I will also utilize Shorthand as the platform for presenting my story telling narrative, integrating data visualizations with explanatory text and multimedia elements. My final presentation deck I hope will enable students to engage with the content and gain a deeper understanding and awareness of environmental issues and the importance of sustainable practices in the future.
 
 ## Citation
-[1] U.S Energy Information Administration. 2021. “Electricity and the Environment - U.S. Energy Information Administration (EIA).” Eia.gov. U.S. Energy Information Administration. December 6, 2021. https://www.eia.gov/energyexplained/electricity/electricity-and-the-environment.php.
-[2] Energy, Just. 2023. “Impact of Energy Production and Consumption the Environment.” Just Energy. August 24, 2023. https://justenergy.com/blog/impact-of-energy-production-consumption-environment/.
+### [1] U.S Energy Information Administration. 2021. “Electricity and the Environment - U.S. Energy Information Administration (EIA).” Eia.gov. U.S. Energy Information Administration. December 6, 2021. https://www.eia.gov/energyexplained/electricity/electricity-and-the-environment.php.
+
+### [2] Energy, Just. 2023. “Impact of Energy Production and Consumption the Environment.” Just Energy. August 24, 2023. https://justenergy.com/blog/impact-of-energy-production-consumption-environment/.
 
 ‌
 
