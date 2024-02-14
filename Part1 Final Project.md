@@ -24,6 +24,8 @@ Additionally, my project will include an infographic showcasing the environmenta
 
 The world primary energy consumption in the world keep increasing anually, this includes energy such as electricity, heat, etc. As we can see there are China, India, Indonesia, United States, and the world curve in the graph, each of them showing increase in energy consumption which is pretty significant.
 
+#### World Primary Energy Consumption
+
 **Curve Trend**
 
 <div class='tableauPlaceholder' id='viz1707882572599' style='position: relative'><noscript><a href='#'><img alt='World Primary Energy ConsumptionPrimary energy consumption is measured in terawatt-hours, using the substitution method. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ta&#47;TableauEnergyConsumptionworld&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TableauEnergyConsumptionworld&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ta&#47;TableauEnergyConsumptionworld&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
@@ -61,7 +63,7 @@ below is the geographic map version of the data above, which can emphasize more 
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-
+#### World Electricity Generation
 
 **Curve Trend**
 
@@ -105,7 +107,7 @@ Therefore, it is essential to recognize the connection between our energy consum
 
 Below are the graphs of the amount of Fossil Fuel Combustion Carbon dioxide and also other gasses that been address per 5 years :
 
-**Fossil Fuel Combustion : Carbon dioxide**
+#### Fossil Fuel Combustion : Carbon dioxide**
 
 <div class='tableauPlaceholder' id='viz1707883093726' style='position: relative'><noscript><a href='#'><img alt='U.S Greenhouse Gas Emissions from Electric Power Industry, by Category, 1990-2021Emmisions (million metric tons) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ta&#47;TableauElectriccombustion&#47;Sheet23&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TableauElectriccombustion&#47;Sheet23' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ta&#47;TableauElectriccombustion&#47;Sheet23&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
@@ -117,7 +119,7 @@ Below are the graphs of the amount of Fossil Fuel Combustion Carbon dioxide and 
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-**Fossil Fuel Combustion : Other Green House Gases**
+#### Fossil Fuel Combustion : Other Green House Gases
 
 <div class='tableauPlaceholder' id='viz1707883141779' style='position: relative'><noscript><a href='#'><img alt='U.S Greenhouse Gas Emissions from Electric Power Industry, by Category, 1990-2021Emmisions (million metric tons) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ta&#47;TableauElectriccombustion2&#47;Sheet22&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TableauElectriccombustion2&#47;Sheet22' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ta&#47;TableauElectriccombustion2&#47;Sheet22&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
