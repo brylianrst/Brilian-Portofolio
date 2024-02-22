@@ -25,11 +25,15 @@ I have developed a shorthand presentation containing a storyboard that lays out 
 
 ## My refined outline / storyboards for my shorthand presentation
 
-### Title
-
-#### Its Time to Make A Change, Earth Hour Movement. The Answer to Climate Change
+--------------------------------------------------------------------------
 
 ### Outline (Story Narrative Structure/Storyboard)
+
+--------------------------------------------------------------------------
+
+### Title
+
+#### Its Time to Make A Change, Earth Hour Movement. The Answer to Climate Change\
 
 --------------------------------------------------------------------------
 
