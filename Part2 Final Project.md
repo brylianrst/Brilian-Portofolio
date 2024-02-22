@@ -94,19 +94,19 @@ The protocol i made already include details of who is the target audience, what 
 
 #### My User Research Protocol Will Clearly Identify the Following:
 
-#### A. The target audience you hope to reach with your story
+#### A. The target audience I hope to reach with my story
 #### B. My approach to identifying representative individuals to interview
 #### C. My interview script
  
-## Target Audience
+## Target audience I hope to reach with my story
 
 Since my topic emphasize on suggesting various ways for tech students to contribute reducing climate change through participating earth hour initiatives, this user research target audience will also be tech students. 
 
 After defining and knowing my target audience, i tried to think and breakdown what approach i need to use to identify representative individuals and who to reach with my story during my interviews. I finally decided to breakdown my approach into something like below.
 
-## My Approach to Identifying Representative Individuals
+## My approach to identifying representative individuals
 
-To ensure the validity and relevance of the user research for my project targeting tech students, I will employ a strategic approach to identifying representative individuals to interview. Here's how I plan to do it:
+To make sure of the validity and relevance of the user research for my project targeting tech students, I created a strategic approach to identifying representative individuals to interview. Here's how I plan to do it:
 
 ### Define Target Demographics
 
@@ -119,15 +119,15 @@ Verify that the individuals are currently enrolled in or recently graduated from
 Determine the specific areas of interest within the tech field that align with your project. This could include software development, cybersecurity, data science, artificial intelligence, user experience design, or other specialized domains.
 
 **Availability and Accessibility:**
-Ensure that the individuals are available and willing to participate in the interview process within your designated timeframe. Consider factors such as scheduling conflicts, geographic location (if conducting in-person interviews), and accessibility needs.\
+Ensure that the individuals are available and willing to participate in the interview process within your designated timeframe. Consider factors such as scheduling conflicts, geographic location (if conducting in-person interviews), and accessibility needs.
 
-### Ask Friends/Colleagues that we have worked together from many Tech Courses at CMU (Which match the demographic criteria).
+### Ask colleagues that we have worked together from many Tech Courses at CMU (which match the demographic criteria).
 
-I will leverage my friends from Tech Courses in CMU This could include friends from computer science courses, Information Systems Courses, or other relevant tech courses.
+I will look into my friends from Tech Courses in CMU This could include friends from computer science courses, Information Systems Courses, or other relevant tech courses.
 
-### Ask Friends from My Indonesian CMU Student Organizations (Which match the demographic criteria).
+### Ask friends from my Indonesian CMU Student Organizations (which match the demographic criteria).
 
-I will leverage my Indonesian Student Organization friends and networks within CMU. They are really helpful and as well many have tech backgrounds and also studying in tech majors at CMU.
+I will try to leverage my Indonesian Student Organization friends and networks within CMU. They are really helpful and as well many have tech backgrounds and also studying in tech majors at CMU.
 
 ## Interview script
 
