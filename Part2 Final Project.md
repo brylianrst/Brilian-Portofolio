@@ -2,12 +2,12 @@
 
 # Part 2: Final Project
 
-### Brilian Pracoyo Adi (badi@andrew.cmu.edu)
+## Brilian Pracoyo Adi (badi@andrew.cmu.edu)
 
 I already created a new Github page within my existing repository. I also put navigation that takes the reader between other parts of the final project and back to the main portfolio. 
 And finally, documented my progress of the project here in the new markdown file and includes relevant sections (wireframes and storyboards, user research and interviews, etc.)
 
-## Wireframes / Storyboards
+# Wireframes / Storyboards
 
 My journey of creating the wireframes / storyboards takes time around 1-3 days, fully thinking about how to refine the story lines from the last project part and how to add more things in the outline or storyboard narrative structure, in other words, i was thinking how to elaborate content and its structure to tell a compelling story.
 
@@ -25,68 +25,68 @@ I have developed a shorthand presentation containing a storyboard that lays out 
 
 Also i already indentify the data visualizations and sketches, include examples of how the real data might be rendered. Data visualizations that i provide are appropriate for the project and of sufficient quantity and quality to tell a compelling story. I also already referenced and used important elements like titles, annotations, legends, captions, axis, data source and other elements appropriately for the data visualizations.
 
-### My refined outline / storyboards for my shorthand presentation
+## My refined outline / storyboards for my shorthand presentation
 
 --------------------------------------------------------------------------
 
-#### Outline (Story Narrative Structure/Storyboard)
+### Outline (Story Narrative Structure/Storyboard)
 
 --------------------------------------------------------------------------
 
-#### Title
+### Title
 
-##### Its Time to Make A Change, Earth Hour Movement. The Answer to Climate Change\
-
---------------------------------------------------------------------------
-
-#### Introduction
+#### Its Time to Make A Change, Earth Hour Movement. The Answer to Climate Change\
 
 --------------------------------------------------------------------------
 
-##### Frame 1: What is Climate Change ? 
-##### Frame 2: What are Fossil Fuels?
-##### Frame 3: What is the link between fossil fuels and climate change?
-##### Frame 4: The Necessity of Energy Production for Human Consumption
-##### Frame 5: Primary Energy and its Consumption
-##### Frame 6: Further Analysis 
-##### Frame 7: World Electricity Energy
-##### Frame 8: Electricity Energy and its generation
-##### Frame 9: Further Analysis 
+### Introduction
 
 --------------------------------------------------------------------------
 
-##### dataviz 1: How much primary energy does each country consume ?
-##### dataviz 2: geographic map
-##### dataviz 3: How much electricity does each country generate ?
-##### dataviz 4: geographic map
+#### Frame 1: What is Climate Change ? 
+#### Frame 2: What are Fossil Fuels?
+#### Frame 3: What is the link between fossil fuels and climate change?
+#### Frame 4: The Necessity of Energy Production for Human Consumption
+#### Frame 5: Primary Energy and its Consumption
+#### Frame 6: Further Analysis 
+#### Frame 7: World Electricity Energy
+#### Frame 8: Electricity Energy and its generation
+#### Frame 9: Further Analysis 
 
 --------------------------------------------------------------------------
 
-#### Problem Statement
+#### dataviz 1: How much primary energy does each country consume ?
+#### dataviz 2: geographic map
+#### dataviz 3: How much electricity does each country generate ?
+#### dataviz 4: geographic map
 
 --------------------------------------------------------------------------
 
-##### Frame 10: How Does Electricity Generation and Consumption Affect the Environment? 
-##### Frame 11: Further Analysis
+### Problem Statement
 
 --------------------------------------------------------------------------
 
-##### dataviz 5: Fossil Fuel Combustion : Carbon dioxide
-##### dataviz 6: Fossil Fuel Combustion : Other Green House Gases
+#### Frame 10: How Does Electricity Generation and Consumption Affect the Environment? 
+#### Frame 11: Further Analysis
 
 --------------------------------------------------------------------------
 
-#### Call to Action
-
-##### Frame 12: Reminder for us
-##### Frame 13: What is Earth Hour ? How can it protect against climate change?
-##### Frame 14: Earth Hour Milestones
-##### Frame 15: How can we contribute in Earth Hour as an Information Systems Student ?
-##### Frame 16: Closing QnA
+#### dataviz 5: Fossil Fuel Combustion : Carbon dioxide
+#### dataviz 6: Fossil Fuel Combustion : Other Green House Gases
 
 --------------------------------------------------------------------------
 
-## User Research Protocol
+### Call to Action
+
+#### Frame 12: Reminder for us
+#### Frame 13: What is Earth Hour ? How can it protect against climate change?
+#### Frame 14: Earth Hour Milestones
+#### Frame 15: How can we contribute in Earth Hour as an Information Systems Student ?
+#### Frame 16: Closing QnA
+
+--------------------------------------------------------------------------
+
+# User Research Protocol
 
 I have created a simple user research protocol that describes what the goal of my research is, including the questions i intended to ask my interviewees by showing my early wireframes / storyboards to at least three different individuals. 
 
@@ -98,17 +98,17 @@ The protocol i made already include details of who is the target audience, what 
 **b. My approach to identifying representative individuals to interview**
 **c. My interview script**
  
-### Target Audience
+## Target Audience
 
 Since my topic emphasize on suggesting various ways for tech students to contribute reducing climate change through participating earth hour initiatives, this user research target audience will also be tech students. 
 
 After defining and knowing my target audience, i tried to think and breakdown what approach i need to use to identify representative individuals and who to reach with my story during my interviews. I finally decided to breakdown my approach into something like below.
 
-### My Approach to Identifying Representative Individuals
+## My Approach to Identifying Representative Individuals
 
 To ensure the validity and relevance of the user research for my project targeting tech students, I will employ a strategic approach to identifying representative individuals to interview. Here's how I plan to do it:
 
-#### Define Target Demographics
+### Define Target Demographics
 
 I will first define the demographic characteristics of tech students that align with my target audience. This may include factors such as age range, educational background,specific areas of interest within the tech field, and their availability to be interviewed.
 
@@ -121,15 +121,15 @@ Determine the specific areas of interest within the tech field that align with y
 **Availability and Accessibility:**
 Ensure that the individuals are available and willing to participate in the interview process within your designated timeframe. Consider factors such as scheduling conflicts, geographic location (if conducting in-person interviews), and accessibility needs.\
 
-#### Ask Friends/Colleagues that we have worked together from many Tech Courses at CMU (Which match the demographic criteria).
+### Ask Friends/Colleagues that we have worked together from many Tech Courses at CMU (Which match the demographic criteria).
 
 I will leverage my friends from Tech Courses in CMU This could include friends from computer science courses, Information Systems Courses, or other relevant tech courses.
 
-#### Ask Friends from My Indonesian CMU Student Organizations (Which match the demographic criteria).
+### Ask Friends from My Indonesian CMU Student Organizations (Which match the demographic criteria).
 
 I will leverage my Indonesian Student Organization friends and networks within CMU. They are really helpful and as well many have tech backgrounds and also studying in tech majors at CMU.
 
-### Interview script
+## Interview script
 
 I already created interview script with list of 7-8 questions to get a meaningful feedback and insights from the interviewees, 
 I try to come up with the most valuable and important questions to ask, since at first i created 15-20 questions and i think those are 
@@ -138,27 +138,27 @@ that i think can emphasize and help refine my shorthand storyboards in terms of 
 
 > List of goals from my research, and the questions I intend to ask the interviewees.
 
-#### Goal: Get Ideas of Audience General Understanding About my Story/Context
+### Goal: Get Ideas of Audience General Understanding About my Story/Context
 
 - Can you tell me what you think this is? 
 - Who do you think is the intended audience for this?
 
-#### Goal: Finding Insight to Enhance Storyboards Structure (The Presentation Story Structure)
+### Goal: Finding Insight to Enhance Storyboards Structure (The Presentation Story Structure)
 
 - What about the story narrative structure, do you think it is great or not for story telling? Is the message delivered and clearly understood ? 
 - Is there any suggestions you would like to provide regarding storyboards structure ?
 
-#### Goal: Get Ideas On How to Enhance Wireframes (each slides/content that build the presentation)
+### Goal: Get Ideas On How to Enhance Wireframes (each slides/content that build the presentation)
 
 - Is the progression through wireframes already great ? Is there any suggestions you would like to provide regarding the content and slides ?
 
-#### Goal: Finding Insight to Enhance Data Visualization (Graphics)
+### Goal: Finding Insight to Enhance Data Visualization (Graphics)
 
 - Are the number of data visualizations sufficient to tell a compelling story ?
 - Important elements in the visuals like titles, annotations, legends, captions, axis, data source and other elements are referenced and used appropriately ? Is there any suggestions for improving the data visualization ?
 
 
-### Interview Findings
+## Interview Findings
 
 I already completed interviewing three people. These interviewees are ranging from student 23-30's, but i already remove all PII and any sensitive information.
 
@@ -167,7 +167,7 @@ I already documented the findings from the interviews, including specific insigh
 > Detail the findings from my interviews.
 
 
-## Identified Changes for Part III
+# Identified Changes for Part III
 
 I already identified what changes I plan on implementing for Part III based on the feedback to address any issues raised in the user research.
 
@@ -187,7 +187,7 @@ Text here!
 
 Text here!
 
-## Moodboards / personas
+# Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
 
 Text here!
