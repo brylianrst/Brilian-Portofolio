@@ -55,10 +55,10 @@ Also i already indentify the data visualizations and sketches, include examples 
 
 --------------------------------------------------------------------------
 
-#### dataviz 1: How much primary energy does each country consume ?
-#### dataviz 2: geographic map
-#### dataviz 3: How much electricity does each country generate ?
-#### dataviz 4: geographic map
+#### Dataviz 1: How much primary energy does each country consume ?
+#### Dataviz 2: Geographic map
+#### Dataviz 3: How much electricity does each country generate ?
+#### Dataviz 4: Geographic map
 
 --------------------------------------------------------------------------
 
@@ -71,8 +71,8 @@ Also i already indentify the data visualizations and sketches, include examples 
 
 --------------------------------------------------------------------------
 
-#### dataviz 5: Fossil Fuel Combustion : Carbon dioxide
-#### dataviz 6: Fossil Fuel Combustion : Other Green House Gases
+#### Dataviz 5: Fossil Fuel Combustion : Carbon dioxide
+#### Dataviz 6: Fossil Fuel Combustion : Other Green House Gases
 
 --------------------------------------------------------------------------
 
@@ -92,11 +92,11 @@ I have created a simple user research protocol that describes what the goal of m
 
 The protocol i made already include details of who is the target audience, what approach to identifying representative individuals to interview that i will use, the interview script.
 
-### My User Research Protocol Will Clearly Identify the Following:
+#### My User Research Protocol Will Clearly Identify the Following:
 
-### A. The target audience you hope to reach with your story**
-### B. My approach to identifying representative individuals to interview**
-### C. My interview script**
+#### A. The target audience you hope to reach with your story**
+#### B. My approach to identifying representative individuals to interview**
+#### C. My interview script**
  
 ## Target Audience
 
