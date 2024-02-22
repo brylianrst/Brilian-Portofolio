@@ -29,11 +29,13 @@ I have developed a shorthand presentation containing a storyboard that lays out 
 
 #### Its Time to Make A Change, Earth Hour Movement. The Answer to Climate Change
 
-------------------------- Outline --------------------------------------
+### Outline (Story Narrative Structure/Storyboard)
+
+--------------------------------------------------------------------------
 
 ### Introduction
 
-------------------------- frames/slides --------------------------------
+--------------------------------------------------------------------------
 
 #### Frame 1: What is Climate Change ? 
 #### Frame 2: What are Fossil Fuels?
@@ -45,7 +47,7 @@ I have developed a shorthand presentation containing a storyboard that lays out 
 #### Frame 8: Electricity Energy and its generation
 #### Frame 9: Further Analysis 
 
--------------------------- dataviz --------------------------------------
+--------------------------------------------------------------------------
 
 #### dataviz 1: How much primary energy does each country consume ?
 #### dataviz 2: geographic map
@@ -56,12 +58,12 @@ I have developed a shorthand presentation containing a storyboard that lays out 
 
 ### Problem Statement
 
-------------------------- frames/slides ---------------------------------
+--------------------------------------------------------------------------
 
 #### Frame 10: How Does Electricity Generation and Consumption Affect the Environment? 
 #### Frame 11: Further Analysis
 
--------------------------- dataviz --------------------------------------
+--------------------------------------------------------------------------
 
 #### dataviz 5: Fossil Fuel Combustion : Carbon dioxide
 #### dataviz 6: Fossil Fuel Combustion : Other Green House Gases
