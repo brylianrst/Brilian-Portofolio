@@ -22,10 +22,8 @@ first, i use tableau, all the data visualizations on my shorthand presentation i
 second, i use shorthand, i find it really great option to create persuasive, aestethic, and compelling story telling deck presentation. Also i find it easy to use only by studying and hands on for 1-2 hours, here is my link to this project : [Shorthand Link](https://preview.shorthand.com/bxIgmhZoF9xY8buF)
 
 I have developed a shorthand presentation containing a storyboard that lays out the necessary progression through sketches and / or wireframes for this project. The sketches/wireframes that i provided are high-fidelity, and also for the data visualizations i already provided individual draft data visualizations of the critical elements of the story. The outline of the story is clear, and the data visualizations appear to fit well in the context of the outline. There are a sufficient number of data visualizations and they provide a good summary of the story that i wish to tell. Information is logically presented and easy to follow. Sketches and/or wireframes and scenarios of use bring opportunity areas to life especially the call to action for information systems student that can bring opportunity to really participate and know what activities to do in order to participate.
- 
-Also i already indentify the data visualizations and sketches, include examples of how the real data might be rendered. Data visualizations that i provide are appropriate for the project and of sufficient quantity and quality to tell a compelling story. I also already referenced and used important elements like titles, annotations, legends, captions, axis, data source and other elements appropriately for the data visualizations.
 
-## My refined outline for my shorthand presentation
+## My refined outline / storyboards for my shorthand presentation
 
 ### Title
 
@@ -35,26 +33,38 @@ The Answer to Climate Change
 
 ### Introduction
 
-Frame 1: What is Climate Change ? definition of climate change
-Frame 2: What are Fossil Fuels?
-Frame 2: The Necessity of Energy Production for Human Consumption
-Frame 3: Primary Energy consumption
-Frame 4: The Necessity of World Electricity
-Frame 5: World Electricity Generation
+#### Frame 1: What is Climate Change ? 
+#### Frame 2: What are Fossil Fuels?
+#### Frame 3: What is the link between fossil fuels and climate change?
+#### Frame 4: The Necessity of Energy Production for Human Consumption
+#### Frame 5: Primary Energy and its Consumption
+#### Frame 6: Further Analysis 
+#### Frame 7: World Electricity Energy
+#### Frame 8: Electricity Energy and its generation
+#### Frame 9: Further Analysis 
+
+#### dataviz 1: How much primary energy does each country consume ?
+#### dataviz 2: geographic map
+#### dataviz 3: How much electricity does each country generate ?
+#### dataviz 4: geographic map
 
 ### Problem Statement
 
-Frame 6: How Does Electricity Energy Consumption Affect the Environment? What is the relevance with the Electricity Generation ?
-Frame 7: How big is the impact of fossil fuels on climate change and our planet?
-Frame 8: Fossil Fuel Combustion : Carbon dioxide
-Frame 9: Fossil Fuel Combustion : Other Green House Gases
+#### Frame 10: How Does Electricity Generation and Consumption Affect the Environment? 
+#### Frame 11: Further Analysis
+
+#### dataviz 5: Fossil Fuel Combustion : Carbon dioxide
+#### dataviz 6: Fossil Fuel Combustion : Other Green House Gases
 
 ### Call to Action
 
-Frame 10: What is Earth Hour ? Why it is important ?
-Frame 11: Earth Hour Milestone
-Frame 12: How can we contribute as an Information Systems Student
-Frame 13: Closing QnA
+#### Frame 12: Reminder for us
+#### Frame 13: What is Earth Hour ? How can it protect against climate change?
+#### Frame 14: Earth Hour Milestones
+#### Frame 15: How can we contribute in Earth Hour as an Information Systems Student ?
+#### Frame 16: Closing QnA
+
+Also i already indentify the data visualizations and sketches, include examples of how the real data might be rendered. Data visualizations that i provide are appropriate for the project and of sufficient quantity and quality to tell a compelling story. I also already referenced and used important elements like titles, annotations, legends, captions, axis, data source and other elements appropriately for the data visualizations.
 
 # User research
 
