@@ -173,7 +173,7 @@ I already documented the findings from the interviews, including specific insigh
  
 > Detail the findings from my interviews.
 
-### (Student, 24)
+### (Student, Female, 24)
 
 #### Can you tell me what you think this is?
 Article about climate change due to massive energy consumption
@@ -185,37 +185,35 @@ Policy maker, scientist in the field of energy, country leaders, individual
 It's very text heavy article, you could add more visual or highlight important points to help reader grasp the idea
 
 #### Is the progression through wireframes already great ? 
-Yeah but I'm not sure why you suddenly focus on US gas emission padahal di awal discuss about the world and top countries yang consume/generate bnyk energy. maybe you could keep the focus on global or just choose specific countries consistenly
+Yeah but I'm not sure why you suddenly focus on US gas emission because at the beginning we discussed about the world and top countries that consume/generate a lot of energy. maybe you could keep the focus on global or just choose specific countries consistenly
 
 #### Are the number of data visualizations sufficient to tell a compelling story ?
 I think you can add visual about impact of earth hour
 
 #### Important elements in the visuals like titles, annotations, legends, captions, axis, data source and other elements are referenced and used appropriately ?
-Size di shorthand kecil, jadi susah liatnya dan banyak tulisan axis kepotong
-better kalo consistent in using the colors too
+The size on the shorthand is small, so it's pretty hard to see and a lot of the axis writing gets cut off. It's better if you're consistent in using the colors too
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-### (Student, 24)
+### (Student, 29)
 
 #### Can you tell me what you think this is?
-Article about climate change due to massive energy consumption
+A website campaigning earth hour
 
 #### Who do you think is the intended audience for this?
-Policy maker, scientist in the field of energy, country leaders, individual
+General audience, people who care about environment
 
 #### What about the story narrative structure, do you think it is great or not for story telling? 
-It's very text heavy article, you could add more visual or highlight important points to help reader grasp the idea
+Structure is OK and compelling, however the content is too long so it’s hard to follow along and understand the gist of the topic
 
 #### Is the progression through wireframes already great ? 
-Yeah but I'm not sure why you suddenly focus on US gas emission padahal di awal discuss about the world and top countries yang consume/generate bnyk energy. maybe you could keep the focus on global or just choose specific countries consistenly
+Yes
 
 #### Are the number of data visualizations sufficient to tell a compelling story ?
-I think you can add visual about impact of earth hour
+Yes
 
 #### Important elements in the visuals like titles, annotations, legends, captions, axis, data source and other elements are referenced and used appropriately ?
-Size di shorthand kecil, jadi susah liatnya dan banyak tulisan axis kepotong
-better kalo consistent in using the colors too
+Yes
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -248,15 +246,13 @@ I already identified what changes I plan on implementing for Part III based on t
 
 > Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+ Research synthesis   
+ Findings or observations from interviews
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+ Describe what, if any changes you anticipate making to address the observation
+
+
+
 
 > ...include any final thoughts you have here. 
 
