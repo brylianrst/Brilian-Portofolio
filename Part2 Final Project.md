@@ -159,7 +159,7 @@ that i think can emphasize and help refine my shorthand storyboards in terms of 
 
 ### Goal: Finding Insight to Enhance Data Visualization (Graphics)
 
-#### Wireframes (each slides/content that build the presentation)
+#### Data Visualizations
 
 - Are the number of data visualizations sufficient to tell a compelling story ?
 - Important elements in the visuals like titles, annotations, legends, captions, axis, data source and other elements are referenced and used appropriately ?
