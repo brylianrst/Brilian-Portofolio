@@ -33,6 +33,8 @@ I have developed a shorthand presentation containing a storyboard that lays out 
 
 ### Introduction
 
+------------------------- frames/slides --------------------------------
+
 #### Frame 1: What is Climate Change ? 
 #### Frame 2: What are Fossil Fuels?
 #### Frame 3: What is the link between fossil fuels and climate change?
@@ -43,6 +45,8 @@ I have developed a shorthand presentation containing a storyboard that lays out 
 #### Frame 8: Electricity Energy and its generation
 #### Frame 9: Further Analysis 
 
+-------------------------- dataviz --------------------------------------
+
 #### dataviz 1: How much primary energy does each country consume ?
 #### dataviz 2: geographic map
 #### dataviz 3: How much electricity does each country generate ?
@@ -50,8 +54,12 @@ I have developed a shorthand presentation containing a storyboard that lays out 
 
 ### Problem Statement
 
+------------------------- frames/slides ---------------------------------
+
 #### Frame 10: How Does Electricity Generation and Consumption Affect the Environment? 
 #### Frame 11: Further Analysis
+
+-------------------------- dataviz --------------------------------------
 
 #### dataviz 5: Fossil Fuel Combustion : Carbon dioxide
 #### dataviz 6: Fossil Fuel Combustion : Other Green House Gases
