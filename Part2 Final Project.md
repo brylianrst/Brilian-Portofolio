@@ -140,22 +140,21 @@ that i think can emphasize and help refine my shorthand storyboards in terms of 
 
 ### Goal: Get Ideas of Audience General Understanding About my Story/Context
 
-- Can you tell me what you think this is? 
+- Can you tell me what you think this is?
 - Who do you think is the intended audience for this?
 
 ### Goal: Finding Insight to Enhance Storyboards Structure (The Presentation Story Structure)
 
-- What about the story narrative structure, do you think it is great or not for story telling? Is the message delivered and clearly understood ? 
-- Is there any suggestions you would like to provide regarding storyboards structure ?
+- What about the story narrative structure, do you think it is great or not for story telling
 
 ### Goal: Get Ideas On How to Enhance Wireframes (each slides/content that build the presentation)
 
-- Is the progression through wireframes already great ? Is there any suggestions you would like to provide regarding the content and slides ?
+- Is the progression through wireframes already great ?
 
 ### Goal: Finding Insight to Enhance Data Visualization (Graphics)
 
 - Are the number of data visualizations sufficient to tell a compelling story ?
-- Important elements in the visuals like titles, annotations, legends, captions, axis, data source and other elements are referenced and used appropriately ? Is there any suggestions for improving the data visualization ?
+- Important elements in the visuals like titles, annotations, legends, captions, axis, data source and other elements are referenced and used appropriately ?
 
 
 ## Interview Findings
@@ -171,20 +170,20 @@ I already documented the findings from the interviews, including specific insigh
 ### General Understanding
 
 #### Can you tell me what you think this is?
-article about climate change due to massive energy consumption
+Article about climate change due to massive energy consumption
 
 #### Who do you think is the intended audience for this?
-policy maker, scientist in the field of energy, country leaders, individual
+Policy maker, scientist in the field of energy, country leaders, individual
 
 ### Storyboards Structure (The Presentation Story Structure)
 
-### What about the story narrative structure, do you think it is great or not for story telling? 
-it's very text heavy article, you could add more visual or highlight important points to help reader grasp the idea
+#### What about the story narrative structure, do you think it is great or not for story telling? 
+It's very text heavy article, you could add more visual or highlight important points to help reader grasp the idea
 
 ### Wireframes (each slides/content that build the presentation)
 
 #### Is the progression through wireframes already great ? 
-yeah but I'm not sure why you suddenly focus on US gas emission padahal di awal discuss about the world and top countries yang consume/generate bnyk energy. maybe you could keep the focus on global or just choose specific countries consistenly
+Yeah but I'm not sure why you suddenly focus on US gas emission padahal di awal discuss about the world and top countries yang consume/generate bnyk energy. maybe you could keep the focus on global or just choose specific countries consistenly
 
 ### Data Visualization (Graphics)
 
@@ -192,7 +191,7 @@ yeah but I'm not sure why you suddenly focus on US gas emission padahal di awal 
 I think you can add visual about impact of earth hour
 
 #### Important elements in the visuals like titles, annotations, legends, captions, axis, data source and other elements are referenced and used appropriately ?
-size di shorthand kecil, jadi susah liatnya dan banyak tulisan axis kepotong
+Size di shorthand kecil, jadi susah liatnya dan banyak tulisan axis kepotong
 better kalo consistent in using the colors too
 
 --------------------------------------------------------------------------------------------------------------------------------------------
@@ -202,20 +201,20 @@ better kalo consistent in using the colors too
 ### General Understanding
 
 #### Can you tell me what you think this is?
-article about climate change due to massive energy consumption
+Article about climate change due to massive energy consumption
 
 #### Who do you think is the intended audience for this?
-policy maker, scientist in the field of energy, country leaders, individual
+Policy maker, scientist in the field of energy, country leaders, individual
 
 ### Storyboards Structure (The Presentation Story Structure)
 
-### What about the story narrative structure, do you think it is great or not for story telling? 
-it's very text heavy article, you could add more visual or highlight important points to help reader grasp the idea
+#### What about the story narrative structure, do you think it is great or not for story telling? 
+It's very text heavy article, you could add more visual or highlight important points to help reader grasp the idea
 
 ### Wireframes (each slides/content that build the presentation)
 
 #### Is the progression through wireframes already great ? 
-yeah but I'm not sure why you suddenly focus on US gas emission padahal di awal discuss about the world and top countries yang consume/generate bnyk energy. maybe you could keep the focus on global or just choose specific countries consistenly
+Yeah but I'm not sure why you suddenly focus on US gas emission padahal di awal discuss about the world and top countries yang consume/generate bnyk energy. maybe you could keep the focus on global or just choose specific countries consistenly
 
 ### Data Visualization (Graphics)
 
@@ -223,7 +222,7 @@ yeah but I'm not sure why you suddenly focus on US gas emission padahal di awal 
 I think you can add visual about impact of earth hour
 
 #### Important elements in the visuals like titles, annotations, legends, captions, axis, data source and other elements are referenced and used appropriately ?
-size di shorthand kecil, jadi susah liatnya dan banyak tulisan axis kepotong
+Size di shorthand kecil, jadi susah liatnya dan banyak tulisan axis kepotong
 better kalo consistent in using the colors too
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
@@ -233,20 +232,20 @@ better kalo consistent in using the colors too
 ### General Understanding
 
 #### Can you tell me what you think this is?
-article about climate change due to massive energy consumption
+Article about climate change due to massive energy consumption
 
 #### Who do you think is the intended audience for this?
-policy maker, scientist in the field of energy, country leaders, individual
+Policy maker, scientist in the field of energy, country leaders, individual
 
 ### Storyboards Structure (The Presentation Story Structure)
 
-### What about the story narrative structure, do you think it is great or not for story telling? 
-it's very text heavy article, you could add more visual or highlight important points to help reader grasp the idea
+#### What about the story narrative structure, do you think it is great or not for story telling? 
+It's very text heavy article, you could add more visual or highlight important points to help reader grasp the idea
 
 ### Wireframes (each slides/content that build the presentation)
 
 #### Is the progression through wireframes already great ? 
-yeah but I'm not sure why you suddenly focus on US gas emission padahal di awal discuss about the world and top countries yang consume/generate bnyk energy. maybe you could keep the focus on global or just choose specific countries consistenly
+Yeah but I'm not sure why you suddenly focus on US gas emission padahal di awal discuss about the world and top countries yang consume/generate bnyk energy. maybe you could keep the focus on global or just choose specific countries consistenly
 
 ### Data Visualization (Graphics)
 
@@ -254,7 +253,7 @@ yeah but I'm not sure why you suddenly focus on US gas emission padahal di awal 
 I think you can add visual about impact of earth hour
 
 #### Important elements in the visuals like titles, annotations, legends, captions, axis, data source and other elements are referenced and used appropriately ?
-size di shorthand kecil, jadi susah liatnya dan banyak tulisan axis kepotong
+Size di shorthand kecil, jadi susah liatnya dan banyak tulisan axis kepotong
 better kalo consistent in using the colors too
 
 --------------------------------------------------------------------------------------------------------------------------------------------
