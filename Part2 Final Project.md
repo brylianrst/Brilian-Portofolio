@@ -9,7 +9,7 @@ And finally, documented my progress of the project here in the new markdown file
 
 # Wireframes / Storyboards
 
-My journey of creating the wireframes / storyboards takes time around 1-3 days, fully thinking about how to refine the story lines from the part 1 and how to add more things in the outline or storyboard narrative structure, in other words, i was thinking how to elaborate content and its structure to tell a compelling story.
+My journey of creating the wireframes / storyboards takes time around 1-3 days, fully thinking about how to refine the story lines from the last project part and how to add more things in the outline or storyboard narrative structure, in other words, i was thinking how to elaborate content and its structure to tell a compelling story.
 
 I write down my thoughts and try to refine my structure in word doc for these past days, then i immediately shift it to the shorthand app. I find that shorthand is really useful to create a compelling story and presentation.
 
