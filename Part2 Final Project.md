@@ -2,7 +2,7 @@
 
 # Part 2: Final Project
 
-## Brilian Pracoyo Adi (badi@andrew.cmu.edu)
+### Brilian Pracoyo Adi (badi@andrew.cmu.edu)
 
 I already created a new Github page within my existing repository. I also put navigation that takes the reader between other parts of the final project and back to the main portfolio. 
 And finally, documented my progress of the project here in the new markdown file and includes relevant sections (wireframes and storyboards, user research and interviews, etc.)
