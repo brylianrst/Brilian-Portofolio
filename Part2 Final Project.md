@@ -94,9 +94,9 @@ The protocol i made already include details of who is the target audience, what 
 
 #### My User Research Protocol Will Clearly Identify the Following:
 
-#### A. The target audience you hope to reach with your story**
-#### B. My approach to identifying representative individuals to interview**
-#### C. My interview script**
+#### A. The target audience you hope to reach with your story
+#### B. My approach to identifying representative individuals to interview
+#### C. My interview script
  
 ## Target Audience
 
