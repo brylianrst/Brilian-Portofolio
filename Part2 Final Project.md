@@ -27,9 +27,9 @@ I have developed a shorthand presentation containing a storyboard that lays out 
 
 ### Title
 
-#### Its Time to Make A Change
-#### Earth Hour Movement
-#### The Answer to Climate Change
+#### Its Time to Make A Change, Earth Hour Movement. The Answer to Climate Change
+
+------------------------- Outline --------------------------------------
 
 ### Introduction
 
@@ -52,6 +52,8 @@ I have developed a shorthand presentation containing a storyboard that lays out 
 #### dataviz 3: How much electricity does each country generate ?
 #### dataviz 4: geographic map
 
+--------------------------------------------------------------------------
+
 ### Problem Statement
 
 ------------------------- frames/slides ---------------------------------
@@ -64,6 +66,8 @@ I have developed a shorthand presentation containing a storyboard that lays out 
 #### dataviz 5: Fossil Fuel Combustion : Carbon dioxide
 #### dataviz 6: Fossil Fuel Combustion : Other Green House Gases
 
+--------------------------------------------------------------------------
+
 ### Call to Action
 
 #### Frame 12: Reminder for us
@@ -71,6 +75,8 @@ I have developed a shorthand presentation containing a storyboard that lays out 
 #### Frame 14: Earth Hour Milestones
 #### Frame 15: How can we contribute in Earth Hour as an Information Systems Student ?
 #### Frame 16: Closing QnA
+
+--------------------------------------------------------------------------
 
 Also i already indentify the data visualizations and sketches, include examples of how the real data might be rendered. Data visualizations that i provide are appropriate for the project and of sufficient quantity and quality to tell a compelling story. I also already referenced and used important elements like titles, annotations, legends, captions, axis, data source and other elements appropriately for the data visualizations.
 
