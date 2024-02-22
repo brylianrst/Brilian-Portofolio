@@ -86,45 +86,82 @@ Also i already indentify the data visualizations and sketches, include examples 
 
 --------------------------------------------------------------------------
 
-# User research
+# User Research Protocol
 
-Student has created a simple user research protocol that describes what the goal of the research is, including the questions they intend to ask. The protocol includes details on the following: - the target audience - the approach to identifying representative individuals to interview - the interview script
+I have created a simple user research protocol that describes what the goal of my research is, including the questions i intended to ask my interviewees by showing my early wireframes / storyboards to at least three different individuals. 
 
-## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+The protocol i made already include details of who is the target audience, what approach to identifying representative individuals to interview that i will use, the interview script.
 
-Text here!
+**My user research protocol will clearly identify the following:**
+
+a. The target audience you hope to reach with your story; 
+b. My approach to identifying representative individuals to interview; 
+c. My interview script; 
+ 
+## Target Audience
+
+In this user research, my target audience are tech students. Since my topic emphasize on how can students especially in tech can help reduce climate change through participating earth hour initiatives, which can immediately be applied by these students during their college life.
+
+After knowing my target audience, i tried to think and breakdown what approach i need to use to identify representative individuals and who to reach with my story during my interviews. I finally decided to breakdown my approach into something like below.
+
+## My Approach to Identifying Representative Individuals
+
+To ensure the validity and relevance of the user research for my project targeting tech students, I will employ a strategic approach to identifying representative individuals to interview. Here's how I plan to do it:
+
+### Define Target Demographics
+
+I will first define the demographic characteristics of tech students that align with my target audience. This may include factors such as age range, educational background, level of technical expertise, and specific areas of interest within the tech field.
+
+### Ask Friends/Colleagues that we have worked together from many Tech Courses at CMU.
+
+I will leverage my friends from Tech Courses in CMU This could include friends from computer science courses, Information Systems Courses, or other relevant tech courses.
+
+### Ask Friends from My Indonesian CMU Student Organizations
+
+I will leverage my Indonesian Student Organization friends and networks within CMU. They are really helpful and as well many have tech backgrounds and also studying in tech majors at CMU.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+I already created interview script with list of 7-8 questions to get a meaningful feedback and insights from the interviewees, 
+I try to come up with the most valuable and important questions to ask, since at first i created 15-20 questions and i think those are 
+too much and kinda overwhelmed the interviewees, so in that case i try to minimize the numbers and come with the most important questions 
+that i think can emphasize and help refine my shorthand storyboards in terms of context, structure, data visualizations, wireframes, etc.
 
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+> List of goals from my research, and the questions I intend to ask the interviewees.
+
+### Goal: Get Ideas of Audience General Understanding About my Story/Context
+
+- Can you tell me what you think this is? 
+- Who do you think is the intended audience for this?
+
+### Goal: Finding Insight to Enhance Storyboards Structure (The Presentation Story Structure)
+
+- What about the story narrative structure, do you think it is great or not for story telling? Is the message delivered and clearly understood ? 
+- Is there any suggestions you would like to provide regarding storyboards structure ?
+
+### Goal: Get Ideas On How to Enhance Wireframes (each slides/content that build the presentation)
+
+- Is the progression through wireframes already great ? Is there any suggestions you would like to provide regarding the content and slides ?
+
+### Goal: Finding Insight to Enhance Data Visualization (Graphics)
+
+- Are the number of data visualizations sufficient to tell a compelling story ?
+- Important elements in the visuals like titles, annotations, legends, captions, axis, data source and other elements are referenced and used appropriately ? Is there any suggestions for improving the data visualization ?
 
 
-Text here!
+## Interview Findings
 
-## Interview findings
+I already completed interviewing three people. These interviewees are ranging from student 23-30's, but i already remove all PII and any sensitive information.
 
-The student has documented the findings from the interviews, including specific insights and observations, key quotes and other learnings. The student has identified what changes they plan on implementing based on the feedback to address any issues raised in the user research. Student has completed at least three interviews. The interviewees are broadly described (e.g. student, 20's), but all PII and any sensitive information has been removed.
-
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+I already documented the findings from the interviews, including specific insights and observations, key quotes and other learnings. 
+ 
+> Detail the findings from my interviews.
 
 
-# Identified changes for Part III
+# Identified Changes for Part III
+
+I already identified what changes I plan on implementing for Part III based on the feedback to address any issues raised in the user research.
+
 > Document the changes you plan on implementing next week to address any issues identified.  
 
 Text here!
