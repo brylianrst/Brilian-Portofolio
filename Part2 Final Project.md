@@ -43,10 +43,10 @@ Frame 7: World Electricity Energy
 Frame 8: Electricity Energy and its generation
 Frame 9: Further Analysis 
 
-#### dataviz 1: How much primary energy does each country consume ?
-#### dataviz 2: geographic map
-#### dataviz 3: How much electricity does each country generate ?
-#### dataviz 4: geographic map
+dataviz 1: How much primary energy does each country consume ?
+dataviz 2: geographic map
+dataviz 3: How much electricity does each country generate ?
+dataviz 4: geographic map
 
 ### Problem Statement
 
