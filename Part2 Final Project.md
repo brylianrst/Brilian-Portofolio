@@ -4,17 +4,31 @@
 
 ## Brilian Pracoyo Adi (badi@andrew.cmu.edu)
 
+I already created a new Github page within my existing repository. I also put navigation that takes the reader between other parts of the final project and back to the main portfolio. 
+And finally, documented my progress of the project here in the new markdown file and includes relevant sections (wireframes and storyboards, user research and interviews, etc.)
+
 # Wireframes / Storyboards
 
-Student has created a storyboard that lays out the necessary progression through sketches and / or wireframes for their project. The sketches are high-fidelity, individual draft data visualizations of the critical elements of the story. The outline of the story is clear, and the data visualizations appear to fit well in the context of the outline. 
-There are a sufficient number of data visualizations and they provide a good summary of the story the student wishes to tell. Information is logically presented and easy to follow. Sketches and/or prototypes and scenarios of use bring opportunity areas to life.
+My journey of creating the wireframes / storyboards takes time around 1-3 days, fully thinking about how to refine the story lines from the part 1, also thinking how to elaborate more to tell a compelling story.
+The storyboard narrative structure also being the main focus around these days of working on this project. 
 
-Data visualizations are identified, and sketches include examples of how the real data might be rendered. Data visualizations are appropriate for the project, and of sufficient quantity and quality to tell a compelling story. Important elements like titles, annotations, legends, captions, axis, data source and other elements are referenced and used 
-appropriately.
+I write down my thoughts and try to refine my structure in word doc, then immediately shift it to the shorthand app. I find that shorthand is really useful to create a compelling story and presentation.
+The endless features it brings me to explore my creativity with limitless possibilities, it really interest me to be able to create a compelling story with my own choice of mood boards, background theme, transitions, text placement and style.
 
-New Github page created within existing repository. Navigation exists that takes the reader between other parts of the final project and back to the main portfolio. Progress is documented in the new markdown file, and includes relevant sections (wireframes and storyboards, user research and interviews, etc.)
+In this project, i used two tools as my main weapons :
 
-# User research 
+first, i use tableau, all the data visualizations on my shorthand presentation is created by me with the data sources from links that i had listed on my part 1 project submisson github.
+
+second, i use shorthand, i find it really great option to create persuasive, aestethic, and compelling story telling deck presentation. Also i find it easy to use only by studying and hands on for 1-2 hours,
+here is my link to this project : [Shorthand Link](https://preview.shorthand.com/bxIgmhZoF9xY8buF)
+
+I have developed a shorthand presentation containing a storyboard that lays out the necessary progression through sketches and / or wireframes for this project. The sketches/wireframes that i provided are high-fidelity, and also for the data visualizations i already provided individual draft data visualizations of the critical elements of the story. The outline of the story is clear, and the data visualizations appear to fit well in the context of the outline. There are a sufficient number of data visualizations and they provide a good summary of the story that i wish to tell. Information is logically presented and easy to follow. Sketches and/or wireframes and scenarios of use bring opportunity areas to life especially the call to action for information systems student that can bring opportunity to really participate and know what activities to do in order to participate.
+ 
+Also i already indentify the data visualizations and sketches, include examples of how the real data might be rendered. Data visualizations that i provide are appropriate for the project and of sufficient quantity and quality to tell a compelling story. I also already referenced and used important elements like titles, annotations, legends, captions, axis, data source and other elements appropriately for the data visualizations.
+
+# User research
+
+Student has created a simple user research protocol that describes what the goal of the research is, including the questions they intend to ask. The protocol includes details on the following: - the target audience - the approach to identifying representative individuals to interview - the interview script
 
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
@@ -36,6 +50,9 @@ Text here!
 Text here!
 
 ## Interview findings
+
+The student has documented the findings from the interviews, including specific insights and observations, key quotes and other learnings. The student has identified what changes they plan on implementing based on the feedback to address any issues raised in the user research. Student has completed at least three interviews. The interviewees are broadly described (e.g. student, 20's), but all PII and any sensitive information has been removed.
+
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 Text here!
