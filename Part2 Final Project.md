@@ -94,15 +94,15 @@ The protocol i made already include details of who is the target audience, what 
 
 **My user research protocol will clearly identify the following:**
 
-a. The target audience you hope to reach with your story; 
-b. My approach to identifying representative individuals to interview; 
-c. My interview script; 
+**a. The target audience you hope to reach with your story**
+**b. My approach to identifying representative individuals to interview**
+**c. My interview script**
  
 ## Target Audience
 
-In this user research, my target audience are tech students. Since my topic emphasize on how can students especially in tech can help reduce climate change through participating earth hour initiatives, which can immediately be applied by these students during their college life.
+Since my topic emphasize on suggesting various ways for tech students to contribute reducing climate change through participating earth hour initiatives, this user research target audience will also be tech students. 
 
-After knowing my target audience, i tried to think and breakdown what approach i need to use to identify representative individuals and who to reach with my story during my interviews. I finally decided to breakdown my approach into something like below.
+After defining and knowing my target audience, i tried to think and breakdown what approach i need to use to identify representative individuals and who to reach with my story during my interviews. I finally decided to breakdown my approach into something like below.
 
 ## My Approach to Identifying Representative Individuals
 
@@ -110,13 +110,22 @@ To ensure the validity and relevance of the user research for my project targeti
 
 ### Define Target Demographics
 
-I will first define the demographic characteristics of tech students that align with my target audience. This may include factors such as age range, educational background, level of technical expertise, and specific areas of interest within the tech field.
+I will first define the demographic characteristics of tech students that align with my target audience. This may include factors such as age range, educational background,specific areas of interest within the tech field, and their availability to be interviewed.
 
-### Ask Friends/Colleagues that we have worked together from many Tech Courses at CMU.
+**Academic Background:**
+Verify that the individuals are currently enrolled in or recently graduated from a technology-related program, such as computer science, engineering, information technology, or a related field.
+
+**Areas of Interest:**
+Determine the specific areas of interest within the tech field that align with your project. This could include software development, cybersecurity, data science, artificial intelligence, user experience design, or other specialized domains.
+
+**Availability and Accessibility:**
+Ensure that the individuals are available and willing to participate in the interview process within your designated timeframe. Consider factors such as scheduling conflicts, geographic location (if conducting in-person interviews), and accessibility needs.\
+
+### Ask Friends/Colleagues that we have worked together from many Tech Courses at CMU (Which match the demographic criteria).
 
 I will leverage my friends from Tech Courses in CMU This could include friends from computer science courses, Information Systems Courses, or other relevant tech courses.
 
-### Ask Friends from My Indonesian CMU Student Organizations
+### Ask Friends from My Indonesian CMU Student Organizations (Which match the demographic criteria).
 
 I will leverage my Indonesian Student Organization friends and networks within CMU. They are really helpful and as well many have tech backgrounds and also studying in tech majors at CMU.
 
