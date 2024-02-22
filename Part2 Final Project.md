@@ -19,7 +19,7 @@ In this project, i used two tools as my main weapons :
 
 first, i use tableau, all the data visualizations on my shorthand presentation is created by me with the data sources from links that i had listed on my part 1 project submisson github.
 
-second, i use shorthand, i find it really great option to create persuasive, aestethic, and compelling story telling deck presentation. Also i find it easy to use only by studying and hands on for 1-2 hours, here is my link to this project : [Shorthand Link](https://preview.shorthand.com/bxIgmhZoF9xY8buF)
+second, i use shorthand, i find it as a really great tool to create persuasive, aestethic, and compelling story telling deck presentation. Also i find it easy to use, took couple of hours(around 1-3 hours) to learn the tool, but the deck / wireframes itself took 2-3 days to complete, here is my link to this project : [Shorthand Link](https://preview.shorthand.com/bxIgmhZoF9xY8buF)
 
 I have developed a shorthand presentation containing a storyboard that lays out the necessary progression through sketches and / or wireframes for this project. The sketches/wireframes that i provided are high-fidelity, and also for the data visualizations i already provided individual draft data visualizations of the critical elements of the story. The outline of the story is clear, and the data visualizations appear to fit well in the context of the outline. There are a sufficient number of data visualizations and they provide a good summary of the story that i wish to tell. Information is logically presented and easy to follow. Sketches and/or wireframes and scenarios of use bring opportunity areas to life especially the call to action for information systems student that can bring opportunity to really participate and know what activities to do in order to participate.
 
@@ -92,11 +92,11 @@ I have created a simple user research protocol that describes what the goal of m
 
 The protocol i made already include details of who is the target audience, what approach to identifying representative individuals to interview that i will use, the interview script.
 
-**My user research protocol will clearly identify the following:**
+### My User Research Protocol Will Clearly Identify the Following:
 
-**a. The target audience you hope to reach with your story**
-**b. My approach to identifying representative individuals to interview**
-**c. My interview script**
+### A. The target audience you hope to reach with your story**
+### B. My approach to identifying representative individuals to interview**
+### C. My interview script**
  
 ## Target Audience
 
@@ -166,6 +166,98 @@ I already documented the findings from the interviews, including specific insigh
  
 > Detail the findings from my interviews.
 
+### (Student, 24)
+
+### General Understanding
+
+#### Can you tell me what you think this is?
+article about climate change due to massive energy consumption
+
+#### Who do you think is the intended audience for this?
+policy maker, scientist in the field of energy, country leaders, individual
+
+### Storyboards Structure (The Presentation Story Structure)
+
+### What about the story narrative structure, do you think it is great or not for story telling? 
+it's very text heavy article, you could add more visual or highlight important points to help reader grasp the idea
+
+### Wireframes (each slides/content that build the presentation)
+
+#### Is the progression through wireframes already great ? 
+yeah but I'm not sure why you suddenly focus on US gas emission padahal di awal discuss about the world and top countries yang consume/generate bnyk energy. maybe you could keep the focus on global or just choose specific countries consistenly
+
+### Data Visualization (Graphics)
+
+#### Are the number of data visualizations sufficient to tell a compelling story ?
+I think you can add visual about impact of earth hour
+
+#### Important elements in the visuals like titles, annotations, legends, captions, axis, data source and other elements are referenced and used appropriately ?
+size di shorthand kecil, jadi susah liatnya dan banyak tulisan axis kepotong
+better kalo consistent in using the colors too
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+### (Student, 24)
+
+### General Understanding
+
+#### Can you tell me what you think this is?
+article about climate change due to massive energy consumption
+
+#### Who do you think is the intended audience for this?
+policy maker, scientist in the field of energy, country leaders, individual
+
+### Storyboards Structure (The Presentation Story Structure)
+
+### What about the story narrative structure, do you think it is great or not for story telling? 
+it's very text heavy article, you could add more visual or highlight important points to help reader grasp the idea
+
+### Wireframes (each slides/content that build the presentation)
+
+#### Is the progression through wireframes already great ? 
+yeah but I'm not sure why you suddenly focus on US gas emission padahal di awal discuss about the world and top countries yang consume/generate bnyk energy. maybe you could keep the focus on global or just choose specific countries consistenly
+
+### Data Visualization (Graphics)
+
+#### Are the number of data visualizations sufficient to tell a compelling story ?
+I think you can add visual about impact of earth hour
+
+#### Important elements in the visuals like titles, annotations, legends, captions, axis, data source and other elements are referenced and used appropriately ?
+size di shorthand kecil, jadi susah liatnya dan banyak tulisan axis kepotong
+better kalo consistent in using the colors too
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+### (Student, 24)
+
+### General Understanding
+
+#### Can you tell me what you think this is?
+article about climate change due to massive energy consumption
+
+#### Who do you think is the intended audience for this?
+policy maker, scientist in the field of energy, country leaders, individual
+
+### Storyboards Structure (The Presentation Story Structure)
+
+### What about the story narrative structure, do you think it is great or not for story telling? 
+it's very text heavy article, you could add more visual or highlight important points to help reader grasp the idea
+
+### Wireframes (each slides/content that build the presentation)
+
+#### Is the progression through wireframes already great ? 
+yeah but I'm not sure why you suddenly focus on US gas emission padahal di awal discuss about the world and top countries yang consume/generate bnyk energy. maybe you could keep the focus on global or just choose specific countries consistenly
+
+### Data Visualization (Graphics)
+
+#### Are the number of data visualizations sufficient to tell a compelling story ?
+I think you can add visual about impact of earth hour
+
+#### Important elements in the visuals like titles, annotations, legends, captions, axis, data source and other elements are referenced and used appropriately ?
+size di shorthand kecil, jadi susah liatnya dan banyak tulisan axis kepotong
+better kalo consistent in using the colors too
+
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 # Identified Changes for Part III
 
@@ -190,5 +282,4 @@ Text here!
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
 
-Text here!
-
+I already did this in the shorthand link, I tried to make the tone, background, theme, and mood related to the topic of climate change environment, etc.  i find it as a really great tool to create persuasive, aestethic, and compelling story telling deck presentation that can emphasize audience mood as well. it took me couple of days create it, here is my link to this project : [Shorthand Link](https://preview.shorthand.com/bxIgmhZoF9xY8buF)
