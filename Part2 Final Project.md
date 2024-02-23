@@ -293,13 +293,13 @@ I already identified what changes that I plan on implementing for Part III based
 
 From my interviews conducted with four people, i higlighted several comments and critique that can be use for further improvements, here are the highlights :
 
-### It's very text heavy article, you could add more visual or highlight important points to help reader grasp the idea
+### - It's very text heavy article, you could add more visual or highlight important points to help reader grasp the idea
 
-### Yeah but I'm not sure why you suddenly focus on US gas emission because at the beginning we discussed about the world and top countries that consume/generate a lot of energy. maybe you could keep the focus on global or just choose specific countries consistenly
+### - Yeah but I'm not sure why you suddenly focus on US gas emission because at the beginning we discussed about the world and top countries that consume/generate a lot of energy. maybe you could keep the focus on global or just choose specific countries consistenly
 
-### I think you can add visual about impact of earth hour
+### - I think you can add visual about impact of earth hour
 
-### The size on the shorthand is small, so it's pretty hard to see and a lot of the axis writing gets cut off. It's better if you're consistent in using the colors too
+### - The size on the shorthand is small, so it's pretty hard to see and a lot of the axis writing gets cut off. It's better if you're consistent in using the colors too
 
 ### - Structure is OK and compelling, however the content is too long so it’s hard to follow along and understand the gist of the topic
 
