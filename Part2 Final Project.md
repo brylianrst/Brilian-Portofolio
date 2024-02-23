@@ -301,33 +301,35 @@ From my interviews conducted with four people, i higlighted several comments and
 
 ### The size on the shorthand is small, so it's pretty hard to see and a lot of the axis writing gets cut off. It's better if you're consistent in using the colors too
 
-### Structure is OK and compelling, however the content is too long so it’s hard to follow along and understand the gist of the topic
+### - Structure is OK and compelling, however the content is too long so it’s hard to follow along and understand the gist of the topic
 
-### Yes the progression is already good, but the number of text on each slide/wireframe should be reduce,
+### - Yes the progression is already good, but the number of text on each slide/wireframe should be reduce,
 
-### Some charts need a data label on it to show the actual numbers since it is depicted in quite a big scale (terawatts)
+### - Some charts need a data label on it to show the actual numbers since it is depicted in quite a big scale (terawatts)
 
-### Maybe a story line at the front of page may help people to understand the whole structure better.
+### - Maybe a story line at the front of page may help people to understand the whole structure better.
 
-## Changes that i will implement
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Changes That I Will Implement for The Final Deliverables
 
 Based on the feedback provided by the interviewees, I will create a list of changes that I could implement to improve my final project deliverables :
 
-### I will try to incorporate more visuals such as images related to the content and try to break up the text-heavy content and highlight important points. Reducing the amount of text on each slide or wireframe to improve readability and comprehension.
+### - I will try to incorporate more visuals such as images related to the content and try to break up the text-heavy content and highlight important points. Reducing the amount of text on each slide or wireframe to improve readability and comprehension.
 
-### I will keep maintaining consistency in focus throughout the storyboards, either keeping it focusing on global or focusing on specific countries consistently.
+### - I will keep maintaining consistency in focus throughout the storyboards, either keeping it focusing on global or focusing on specific countries consistently.
 
-### I will add more visuals illustrating the impact of Earth Hour to make the concept more tangible for readers.
+### - I will add more visuals illustrating the impact of Earth Hour to make the concept more tangible for readers.
 
-### Increase the font size and ensure that all text is clearly visible, especially on charts and graphs where axis labels may get cut off.
+### - Increase the font size and ensure that all text is clearly visible, especially on charts and graphs where axis labels may get cut off.
 
-### I will use more consistent colors throughout the project for better visual coherence.
+### - I will use more consistent colors throughout the project for better visual coherence.
 
-### Streamlining the content to make it more concise and easier for readers to follow along and grasp the main idea.
+### - Streamlining the content to make it more concise and easier for readers to follow along and grasp the main idea.
 
-### I will include data labels for the actual numbers, especially when depicting data on a large scale such as terawatts.
+### - I will include data labels for the actual numbers, especially when depicting data on a large scale such as terawatts.
 
-### I will plan to consider giving a story line at the front of page may help people to understand the whole structure better.
+### - I will plan to consider giving a story line at the front of page may help people to understand the whole structure better.
 
 I will elaborate more during the journey to the part III, but these are my thoughts on what can be improve and what are the focus, by implementing these changes, I think i can enhance the overall quality and effectiveness of my final project deliverables and create a much better wireframes, storyboards that can help me on the final presentation
 
