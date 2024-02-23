@@ -131,7 +131,7 @@ I will try to leverage my Indonesian Student Organization friends and networks w
 
 ## Interview script
 
-I already created interview script with list of 7-8 questions to get a meaningful feedback and insights from the interviewees, 
+I already created interview script with list of 5-7 questions to get a meaningful feedback and insights from the interviewees, 
 I try to come up with the most valuable and important questions to ask, since at first i created 15-20 questions and i think those are 
 too much and kinda overwhelmed the interviewees, so in that case i try to minimize the numbers and come with the most important questions 
 that i think can emphasize and help refine my shorthand storyboards in terms of context, structure, data visualizations, wireframes, etc.
