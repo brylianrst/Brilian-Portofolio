@@ -21,7 +21,7 @@ first, i use tableau, all the data visualizations on my shorthand presentation i
 
 second, i use shorthand, i find it as a really great tool to create persuasive, aestethic, and compelling story telling deck presentation. Also i find it easy to use, took couple of hours(around 1-3 hours) to learn the tool, but the deck / wireframes itself took 2-3 days to complete, here is my link to this project : [Shorthand Link](https://preview.shorthand.com/bxIgmhZoF9xY8buF)
 
-I have developed a shorthand presentation containing a storyboard that lays out the necessary progression through sketches and / or wireframes for this project. The sketches/wireframes that i provided are high-fidelity, and also for the data visualizations i already provided individual draft data visualizations of the critical elements of the story. The outline of the story is clear, and the data visualizations appear to fit well in the context of the outline. There are a sufficient number of data visualizations and they provide a good summary of the story that i wish to tell. Information is logically presented and easy to follow. Sketches and/or wireframes and scenarios of use bring opportunity areas to life especially the call to action for information systems student that can bring opportunity to really participate and know what activities to do in order to participate.
+I have developed a shorthand presentation containing a storyboard that lays out the necessary progression through sketches and / or wireframes for this project. The sketches/wireframes that i provided are high-fidelity, and also for the data visualizations i already provided individual draft data visualizations of the critical elements of the story. The outline of the story is clear, and the data visualizations appear to fit well in the context of the outline. There are a sufficient number of data visualizations and they provide a good summary of the story that i wish to tell. Information is logically presented and easy to follow. Sketches and/or wireframes and scenarios of use bring opportunity areas to life especially the call to action for students that can bring opportunity to really participate and know what activities to do in order to participate.
 
 Also i already indentify the data visualizations and sketches, include examples of how the real data might be rendered. Data visualizations that i provide are appropriate for the project and of sufficient quantity and quality to tell a compelling story. I also already referenced and used important elements like titles, annotations, legends, captions, axis, data source and other elements appropriately for the data visualizations.
 
@@ -81,7 +81,7 @@ Also i already indentify the data visualizations and sketches, include examples 
 #### Frame 12: Reminder for us
 #### Frame 13: What is Earth Hour ? How can it protect against climate change?
 #### Frame 14: Earth Hour Milestones
-#### Frame 15: How can we contribute in Earth Hour as an Information Systems Student ?
+#### Frame 15: How Can We Participate in Earth Hour as Students ?
 #### Frame 16: Closing QnA
 
 --------------------------------------------------------------------------
@@ -100,34 +100,34 @@ The protocol i made already include details of who is the target audience, what 
  
 ## Target audience I hope to reach with my story
 
-Since my topic emphasize on suggesting various ways for students from general background or general public to contribute reducing climate change through participating earth hour initiatives, this user research target audience will also be students from general background or general public. 
+Since my topic emphasize on suggesting various ways for students from general background or general public to contribute reducing climate change through participating earth hour initiatives, this user research target audience will also be students from general background or general public.
 
 After defining and knowing my target audience, i tried to think and breakdown what approach i need to use to identify representative individuals and who to reach with my story during my interviews. I finally decided to breakdown my approach into something like below.
 
 ## My approach to identifying representative individuals
 
-To make sure of the validity and relevance of the user research for my project targeting tech students, I created a strategic approach to identifying representative individuals to interview. Here's how I plan to do it:
+To make sure of the validity and relevance of the user research for my project targeting students from general backgrounds, I created a strategic approach to identifying representative individuals to interview. Here's how I plan to do it:
 
 ### Define Target Demographics
 
-I will first define the demographic characteristics of tech students that align with my target audience. This may include factors such as age range, educational background,specific areas of interest within the tech field, and their availability to be interviewed.
+I will first define the demographic characteristics of students that align with my target audience. This may include factors such as age range, educational background, specific areas of interest field, and their availability to be interviewed.
 
 **Academic Background:**
-Verify that the individuals are currently enrolled in or recently graduated from a technology-related program, such as computer science, engineering, information technology, or a related field.
+I will verify that the individuals are currently enrolled in or recently graduated from university, within any major, because the aim is for general students.
 
 **Areas of Interest:**
-Determine the specific areas of interest within the tech field that align with your project. This could include software development, cybersecurity, data science, artificial intelligence, user experience design, or other specialized domains.
+I will try to determine the specific areas of interest within the field that align with my project, such as sustainable environment, sustainable energy, etc. But this is not mandatory since in my opinion almost everyone supposed to want to help make our environment to be less harmful.
 
 **Availability and Accessibility:**
-Ensure that the individuals are available and willing to participate in the interview process within your designated timeframe. Consider factors such as scheduling conflicts, geographic location (if conducting in-person interviews), and accessibility needs.
+I will make sure that the individuals are available and willing to participate in the interview process within mydesignated timeframe. Consider factors such as scheduling conflicts, geographic location (if conducting in-person interviews), and accessibility needs.
 
-### Ask colleagues that we have worked together from many Tech Courses at CMU (which match the demographic criteria).
+### Ask colleagues that we have worked together from many Courses at CMU (which match the demographic criteria).
 
-I will look into my friends from Tech Courses in CMU This could include friends from computer science courses, Information Systems Courses, or other relevant tech courses.
+I will look into my friends from various courses or backgrounds in CMU since this aim for general background students.
 
 ### Ask friends from my Indonesian CMU Student Organizations (which match the demographic criteria).
 
-I will try to leverage my Indonesian Student Organization friends and networks within CMU. They are really helpful and as well many have tech backgrounds and also studying in tech majors at CMU.
+I will try to leverage my Indonesian Student Organization friends and networks within CMU. They are really helpful and as well many have diverse backgrounds and also studying at CMU.
 
 ## Interview script
 
@@ -311,7 +311,7 @@ From my interviews conducted with four people, i higlighted several comments and
 
 ## Changes that i will implement
 
-Based on the feedback provided, I will create a list of changes that I could implement to improve your final project deliverables :
+Based on the feedback provided by the interviewees, I will create a list of changes that I could implement to improve my final project deliverables :
 
 ### I will try to incorporate more visuals such as images related to the content and try to break up the text-heavy content and highlight important points. Reducing the amount of text on each slide or wireframe to improve readability and comprehension.
 
