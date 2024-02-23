@@ -11,7 +11,7 @@ And finally, documented my progress of the project here in the new markdown file
 
 My journey of creating the wireframes / storyboards takes time around 1-3 days, fully thinking about how to refine the story lines from the last project part and how to add more things in the outline or storyboard narrative structure, in other words, i was thinking how to elaborate content and its structure to tell a compelling story.
 
-I write down my thoughts and try to refine my structure in word doc for these past days, then i immediately shift it to the shorthand app. I find that shorthand is really useful to create a compelling story and presentation.
+I write down my thoughts and try to refine my structure in word doc for these past days, then i immediately shift it to the shorthand app. I find that shorthand is really useful to create a compelling story and presentation. but it gets laggy when there are more wireframes and moving background, so it does take longer time to write and manage everything.
 
 The endless features it brings me to explore my creativity with limitless possibilities, it really interest me to be able to create a compelling story with my own choice of mood boards, background theme, transitions, text placement and style.
 
@@ -100,7 +100,7 @@ The protocol i made already include details of who is the target audience, what 
  
 ## Target audience I hope to reach with my story
 
-Since my topic emphasize on suggesting various ways for tech students to contribute reducing climate change through participating earth hour initiatives, this user research target audience will also be tech students. 
+Since my topic emphasize on suggesting various ways for general students to contribute reducing climate change through participating earth hour initiatives, this user research target audience will also be general public or students from general background. 
 
 After defining and knowing my target audience, i tried to think and breakdown what approach i need to use to identify representative individuals and who to reach with my story during my interviews. I finally decided to breakdown my approach into something like below.
 
@@ -167,13 +167,13 @@ that i think can emphasize and help refine my shorthand storyboards in terms of 
 
 ## Interview Findings
 
-I already completed interviewing three people. These interviewees are ranging from student 23-30's, but i already remove all PII and any sensitive information.
+I already completed interviewing three people. These interviewees are ranging from student 24-31's, but i already remove all PII and any sensitive information.
 
 I already documented the findings from the interviews, including specific insights and observations, key quotes and other learnings. 
  
 > Detail the findings from my interviews.
 
-### (Student, Female, 24)
+### (Student, mid 20's)
 
 #### Can you tell me what you think this is?
 Article about climate change due to massive energy consumption
@@ -195,7 +195,7 @@ The size on the shorthand is small, so it's pretty hard to see and a lot of the 
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-### (Student, 29)
+### (Student, late 20s)
 
 #### Can you tell me what you think this is?
 A website campaigning earth hour
@@ -207,36 +207,35 @@ General audience, people who care about environment
 Structure is OK and compelling, however the content is too long so it’s hard to follow along and understand the gist of the topic
 
 #### Is the progression through wireframes already great ? 
-Yes
+Yes, the progression already clear and smooth
 
 #### Are the number of data visualizations sufficient to tell a compelling story ?
-Yes
+Yes, its enough to tell a compelling story
 
 #### Important elements in the visuals like titles, annotations, legends, captions, axis, data source and other elements are referenced and used appropriately ?
-Yes
+Yes, the elements in the visuals already use clear annotations, legends, captions, data source appropriately
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-### (Student, 24)
+### (Student, early 30s)
 
 #### Can you tell me what you think this is?
-Article about climate change due to massive energy consumption
+A call to save the earth
 
 #### Who do you think is the intended audience for this?
-Policy maker, scientist in the field of energy, country leaders, individual
+General public
 
 #### What about the story narrative structure, do you think it is great or not for story telling? 
-It's very text heavy article, you could add more visual or highlight important points to help reader grasp the idea
+Good structure that shows the actions and consequences
 
 #### Is the progression through wireframes already great ? 
-Yeah but I'm not sure why you suddenly focus on US gas emission padahal di awal discuss about the world and top countries yang consume/generate bnyk energy. maybe you could keep the focus on global or just choose specific countries consistenly
+Yes the progression is already good, but the number of text on each slide/wireframe should be reduce,
 
 #### Are the number of data visualizations sufficient to tell a compelling story ?
-I think you can add visual about impact of earth hour
+Yes, its sufficient to tell a compelling story
 
 #### Important elements in the visuals like titles, annotations, legends, captions, axis, data source and other elements are referenced and used appropriately ?
-Size di shorthand kecil, jadi susah liatnya dan banyak tulisan axis kepotong
-better kalo consistent in using the colors too
+Some charts need a data label on it to show the actual numbers since it is depicted in quite a big scale (terawatts)
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -250,7 +249,6 @@ I already identified what changes I plan on implementing for Part III based on t
  Findings or observations from interviews
 
  Describe what, if any changes you anticipate making to address the observation
-
 
 
 
