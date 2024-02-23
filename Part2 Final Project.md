@@ -291,7 +291,7 @@ I already identified what changes that I plan on implementing for Part III based
 
 ## Findings or observations from interviews
 
-From my interviews conducted with four people, i higlighted several comments and critique that can be use for further improvements, here are the highlights :
+From my interviews conducted with five people, i higlighted several comments and critique that can be use for further improvements, here are the highlights :
 
 ### - It's very text heavy article, you could add more visual or highlight important points to help reader grasp the idea
 
