@@ -49,8 +49,8 @@ Also i already indentify the data visualizations and sketches, include examples 
 #### Frame 4: The Necessity of Energy Production for Human Consumption
 #### Frame 5: Primary Energy and its Consumption
 #### Frame 6: Further Analysis 
-#### Frame 7: World Electricity Energy
-#### Frame 8: Electricity Energy and its generation
+#### Frame 7: Electricity Energy Generation
+#### Frame 8: Electricity Energy and its Generation
 #### Frame 9: Further Analysis 
 
 --------------------------------------------------------------------------
@@ -165,9 +165,9 @@ that i think can emphasize and help refine my shorthand storyboards in terms of 
 - Important elements in the visuals like titles, annotations, legends, captions, axis, data source and other elements are referenced and used appropriately ?
 
 
-## Interview Findings
+## Interview Findings / User Findings
 
-I already completed interviewing three people. These interviewees are ranging from student 24-31's, but i already remove all PII and any sensitive information.
+I already completed interviewing five people. These interviewees are ranging from student 24-34's, but i already remove all PII and any sensitive information.
 
 I already documented the findings from the interviews, including specific insights and observations, key quotes and other learnings. 
  
@@ -239,24 +239,98 @@ Some charts need a data label on it to show the actual numbers since it is depic
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
+### (Student, mid 30s)
+
+#### Can you tell me what you think this is?
+This is a presentation how as a student to help preventing and reducing climate change.
+
+#### Who do you think is the intended audience for this?
+Everyone but specially students
+
+#### What about the story narrative structure, do you think it is great or not for story telling? 
+It is good since the slides are easily to understand
+
+#### Is the progression through wireframes already great ? 
+Yes. Every new terminolgy is well explaines in the following slides.
+
+#### Are the number of data visualizations sufficient to tell a compelling story ?
+Yes it is helpful to better undersanding the topic.
+
+#### Important elements in the visuals like titles, annotations, legends, captions, axis, data source and other elements are referenced and used appropriately ?
+Yes. The important elements have been included and used in great manner.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+### (Student, mid 20s)
+
+#### Can you tell me what you think this is?
+An advertisement to advocate people to help save the environment.
+
+#### Who do you think is the intended audience for this?
+Everyone?.
+
+#### What about the story narrative structure, do you think it is great or not for story telling? 
+Yes, it is a good way to tell story. The background picture is very impressive, there’re also many graphs help explain. Maybe a story line at the front of page may help people to understand the whole structure better.
+
+#### Is the progression through wireframes already great ? 
+The design of the graphs is compatible and ease to the eye
+
+#### Are the number of data visualizations sufficient to tell a compelling story ?
+I think so. There’re data from different countries and different angles.
+
+#### Important elements in the visuals like titles, annotations, legends, captions, axis, data source and other elements are referenced and used appropriately ?
+Yes, no need to improve since it's already clear.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Identified Changes for Part III
 
-I already identified what changes I plan on implementing for Part III based on the feedback to address any issues raised in the user research.
+I already identified what changes that I plan on implementing for Part III based on the feedback to address any issues raised in the user research or interview feedbacks.
 
 > Document the changes you plan on implementing next week to address any issues identified.  
 
- Research synthesis   
- Findings or observations from interviews
+## Findings or observations from interviews
 
- Describe what, if any changes you anticipate making to address the observation
+From my interviews conducted with four people, i higlighted several comments and critique that can be use for further improvements, here are the highlights :
 
+### It's very text heavy article, you could add more visual or highlight important points to help reader grasp the idea
 
+### Yeah but I'm not sure why you suddenly focus on US gas emission because at the beginning we discussed about the world and top countries that consume/generate a lot of energy. maybe you could keep the focus on global or just choose specific countries consistenly
 
-> ...include any final thoughts you have here. 
+### I think you can add visual about impact of earth hour
 
-Text here!
+### The size on the shorthand is small, so it's pretty hard to see and a lot of the axis writing gets cut off. It's better if you're consistent in using the colors too
+
+### Structure is OK and compelling, however the content is too long so it’s hard to follow along and understand the gist of the topic
+
+### Yes the progression is already good, but the number of text on each slide/wireframe should be reduce,
+
+### Some charts need a data label on it to show the actual numbers since it is depicted in quite a big scale (terawatts)
+
+### Maybe a story line at the front of page may help people to understand the whole structure better.
+
+## Changes that i will implement
+
+Based on the feedback provided, I will create a list of changes that I could implement to improve your final project deliverables :
+
+### I will try to incorporate more visuals such as images related to the content and try to break up the text-heavy content and highlight important points. Reducing the amount of text on each slide or wireframe to improve readability and comprehension.
+
+### I will keep maintaining consistency in focus throughout the storyboards, either keeping it focusing on global or focusing on specific countries consistently.
+
+### I will add more visuals illustrating the impact of Earth Hour to make the concept more tangible for readers.
+
+### Increase the font size and ensure that all text is clearly visible, especially on charts and graphs where axis labels may get cut off.
+
+### I will try to use more consistent colors throughout the project for better visual coherence.
+
+### Streamlining the content to make it more concise and easier for readers to follow along and grasp the main idea.
+
+### I will include data labels for the actual numbers, especially when depicting data on a large scale such as terawatts.
+
+### Consider giving a story line at the front of page may help people to understand the whole structure better.
+
+I will elaborate more during the journey to the part III, but these are my thoughts on what can be improve and what are the focus, by implementing these changes, I think i can enhance the overall quality and effectiveness of my final project deliverables and create a much better wireframes, storyboards that can help me on the final presentation
 
 # Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
 
 I already did this in the shorthand link, I tried to make the tone, background, theme, and mood related to the topic of climate change environment, etc.  i find it as a really great tool to create persuasive, aestethic, and compelling story telling deck presentation that can emphasize audience mood as well. it took me couple of days create it, here is my link to this project : [Shorthand Link](https://preview.shorthand.com/bxIgmhZoF9xY8buF)
