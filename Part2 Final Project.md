@@ -100,7 +100,7 @@ The protocol i made already include details of who is the target audience, what 
  
 ## Target audience I hope to reach with my story
 
-Since my topic emphasize on suggesting various ways for general students to contribute reducing climate change through participating earth hour initiatives, this user research target audience will also be general public or students from general background. 
+Since my topic emphasize on suggesting various ways for students from general background or general public to contribute reducing climate change through participating earth hour initiatives, this user research target audience will also be students from general background or general public. 
 
 After defining and knowing my target audience, i tried to think and breakdown what approach i need to use to identify representative individuals and who to reach with my story during my interviews. I finally decided to breakdown my approach into something like below.
 
@@ -321,16 +321,16 @@ Based on the feedback provided, I will create a list of changes that I could imp
 
 ### Increase the font size and ensure that all text is clearly visible, especially on charts and graphs where axis labels may get cut off.
 
-### I will try to use more consistent colors throughout the project for better visual coherence.
+### I will use more consistent colors throughout the project for better visual coherence.
 
 ### Streamlining the content to make it more concise and easier for readers to follow along and grasp the main idea.
 
 ### I will include data labels for the actual numbers, especially when depicting data on a large scale such as terawatts.
 
-### Consider giving a story line at the front of page may help people to understand the whole structure better.
+### I will plan to consider giving a story line at the front of page may help people to understand the whole structure better.
 
 I will elaborate more during the journey to the part III, but these are my thoughts on what can be improve and what are the focus, by implementing these changes, I think i can enhance the overall quality and effectiveness of my final project deliverables and create a much better wireframes, storyboards that can help me on the final presentation
 
 # Moodboards / personas
 
-I already did this in the shorthand link, I tried to make the tone, background, theme, and mood related to the topic of climate change environment, etc.  i find it as a really great tool to create persuasive, aestethic, and compelling story telling deck presentation that can emphasize audience mood as well. it took me couple of days create it, here is my link to this project : [Shorthand Link](https://preview.shorthand.com/bxIgmhZoF9xY8buF)
+I already did this in the shorthand link, I tried to make the tone, background, theme, and mood related to the topic of climate change environment, etc. I find it as a really great tool to create persuasive, aestethic, and compelling story telling deck presentation that can emphasize audience mood as well. it took me couple of days create it, here is my link to this project : [Shorthand Link](https://preview.shorthand.com/bxIgmhZoF9xY8buF)
