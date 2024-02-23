@@ -331,7 +331,7 @@ Based on the feedback provided by the interviewees, I will create a list of chan
 
 ### - I will plan to consider giving a story line at the front of page may help people to understand the whole structure better.
 
-I will elaborate more during the journey to the part III, but these are my thoughts on what can be improve and what are the focus, by implementing these changes, I think i can enhance the overall quality and effectiveness of my final project deliverables and create a much better wireframes, storyboards that can help me on the final presentation
+I will elaborate more during the journey working on the part III, some of these points i already tried to fix, i just want to write these in this github page since these are my thoughts on what can be improve and what are the focus, by implementing these changes, I think i can enhance the overall quality and effectiveness of my final project deliverables and create a much better wireframes, storyboards that can help me on the final presentation.
 
 # Moodboards / personas
 
