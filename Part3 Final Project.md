@@ -284,7 +284,9 @@ And lastly, I already did this in the shorthand link, I tried to make the tone, 
 
 ### Summary of Journey Creating Part III
 ----------------------------------------------------------------------------------------------------------------------------------------------
-In Part III, I tried to polish everything that i think needed to be polish from part II, based on the feedback provided by the interviewees below :
+In Part III Journey i try my best to spend so much time possible to rework on the shorthand, this is because it will be presented only 60 seconds and also needs to be able to persuade and create engagement with the audience, so i really think deeply how can i reengineer the presentation deck and come up with lots of great ideas to persuade people into the content and call to actions. 
+
+In that case, I tried to polish everything that i think needed to be polish from part II, based on the feedback provided by the interviewees below :
 
 - I will try to incorporate more visuals such as images related to the content and try to break up the text-heavy content and highlight important points. Reducing the amount of text on each slide or wireframe to improve readability and comprehension.
 - I will keep maintaining consistency in focus throughout the storyboards, either keeping it focusing on global or focusing on specific countries consistently.
@@ -295,7 +297,7 @@ In Part III, I tried to polish everything that i think needed to be polish from 
 - I will include data labels for the actual numbers, especially when depicting data on a large scale such as terawatts.
 - I will plan to consider giving a story line at the front of page may help people to understand the whole structure better.
 
-**Note : my change mostly in part III are combination between these feedback and also my own creative and critical thoughts, that can deliver the best storyline, structure, and also supporting image / data visuals, to create a good story telling presentation deck.**
+**Note : eventhough there are several feedback that i can mostly use above to rework my shorthand story and its details, mostly i made my change with my own critical thinking and creative thinking, and then rejustify it by looking at above feedback iteratively, i think this is a great combination to rework things, so that i can deliver the best storyline, structure, and also supporting image / data visuals, to create a good persuasive story telling presentation deck.**
 
 #### Changes made since Part II
 
