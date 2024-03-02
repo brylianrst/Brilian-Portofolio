@@ -20,16 +20,50 @@ https://preview.shorthand.com/OcvvIO8KW2GZtx24#group-section-Participate-aNv2mRD
 
 ## A final writeup for Part III that summarizes all my work thus far to create my final project. 
 
-In my final project, I will bring the topic about Earth Hour which is a global movement initiative that aims to reduce global energy consumption in this case electricity consumption, by turning light off for 1 hour long worldwide while making it as a symbol to increase people awareness about important environmental issues such as climate change. As we know, Climate change is a significant and long-term shifts in global climate patterns. These changes primarily resulted from the emission of greenhouse gases such as Carbon dioxide (CO2), Carbon monoxide (CO), Sulfur dioxide (SO2), Nitrogen oxides (NOx),Particulate matter (PM), Heavy metals such as mercury into the atmosphere.
+### Summary of Journey Creating Part I
 
-In 2021, approximately 61% of the electricity generated in the United States was produced by plants burning fossil fuels like coal, oil, and natural gas, as well as biomass, and municipal and industrial wastes. When these fuels are burned, they emit various gases and pollutants, contributing to the buildup of greenhouse gases in the atmosphere since the Industrial Revolution. This heightened concentration intensifies the greenhouse effect, which traps heat and leads to a rise in the Earth’s average temperature.[1]
+The journey of creating my final project starts with my initial part, part 1. When i did the part 1, the whole amount of time i used to work on the part is mostly used to think about what kinda topic is really suitable to be presented in the class and have really great call to action, also thinking thoroughly about the structure breakdown to make it story-able.
 
-The consequences of climate change include rising temperatures, changing precipitation patterns, more frequent and severe weather events (such as hurricanes, droughts, and floods), melting glaciers and ice caps, rising sea levels, shifts in ecosystems and habitats, and impacts on agriculture, water resources, and human health.
+I decided to brought up the topic about Earth Hour as the answer to climate change, for people who are not familiar, Earth hour is a global movement initiative that aims to answer climate change issue by aspiring people to turn light off for 1 hour long worldwide while making it as a symbol to increase people awareness about important environmental issues such as climate change.
 
-My final project will utilizes data visualization to depict energy consumption and electricity generation trends over time and across regions, highlighting the environmental impact of these activities, notably the emission of greenhouse gases. Key statistics on carbon emissions, energy usage, and environmental degradation are visually represented.
+As we know, Climate change is a significant and long-term shifts in global climate patterns. These changes primarily resulted from the emission of greenhouse gases such as Carbon dioxide (CO2), Carbon monoxide (CO), Sulfur dioxide (SO2), Nitrogen oxides (NOx),Particulate matter (PM), Heavy metals such as mercury into the atmosphere. In 2021, approximately 61% of the electricity generated in the United States was produced by plants burning fossil fuels like coal, oil, and natural gas, as well as biomass, and municipal and industrial wastes. When these fuels are burned, they emit various gases and pollutants, contributing to the buildup of greenhouse gases in the atmosphere since the Industrial Revolution. This heightened concentration intensifies the greenhouse effect, which traps heat and leads to a rise in the Earth’s average temperature. The consequences of climate change include rising temperatures, changing precipitation patterns, more frequent and severe weather events (such as hurricanes, droughts, and floods), melting glaciers and ice caps, rising sea levels, shifts in ecosystems and habitats, and impacts on agriculture, water resources, and human health.
 
-Additionally, my project will include an infographic showcasing the environmental benefits milestones from Earth Hour Initiatives, emphasizing its significance in addressing climate change. My aim is to provide creative ways of actionable steps for students, especially information systems students at Carnegie Mellon University to contribute to energy conservation efforts in various unique ways, aiming to inspire them to engage in Earth Hour initiatives and take proactive measures to combat climate change.
+I decided to pick this topic for telling stories with data because I think that environmental concern is well acknowledge by many people, and it could really open awarness to the audience about the importance of saving our world trough actively participating in a positive movement such as Earth Hour. I also had an undergraduate degree from electrical engineering, which back then i'm surrounded by this kind of topic and issue.
 
+I utilized data visualization to depict world energy consumption trends over time, highlighting the environmental impact of these activities, notably the emission of greenhouse gasses. Key statistics on carbon emissions, energy usage, and environmental degradation are visually represented.
+
+Also I included an infographic showcasing the environmental benefits milestones from Earth Hour Initiatives, emphasizing its significance in addressing climate change. My aim is to provide creative ways of actionable steps for students, especially information systems students at Carnegie Mellon University to contribute to energy conservation efforts in various unique ways, aiming to inspire them to engage in Earth Hour initiatives and take proactive measures to combat climate change.
+
+### Summary of Journey Creating Part II
+
+***Note:** The modification or changes that i made tranistioning from part I to part II was the target audience that i chose. I was thinking along the journey that the call to action for this part was actually to niche and created a pretty awkward transition between the story and call to action. In my opinion, topic like this supposed to target students with general background who might interested in environmental issues, instead of information systems student. So along the way i change the storyboard and narrative to aim the students with general background (can be from any major).
+
+My journey in creating part 2 started with creating the wireframes / storyboards takes time around 1-3 days, fully thinking about how to refine the story lines from the last project part and how to add more things in the outline or storyboard narrative structure, in other words, i was thinking how to elaborate content and its structure to tell a compelling story.
+
+I write down my thoughts and try to refine my structure in word doc for these past days, then i immediately shift it to the shorthand app. I find that shorthand is really useful to create a compelling story and presentation. but it gets laggy when there are more wireframes and moving background, so it does take longer time to write and manage everything.
+
+The endless features it brings me to explore my creativity with limitless possibilities, it really interest me to be able to create a compelling story with my own choice of mood boards, background theme, transitions, text placement and style.
+
+For this part, i decided to use two tools as my main weapons :
+
+first, i use tableau, all the data visualizations on my shorthand presentation is created by me with the data sources from links that i had listed on my part 1 project submisson github.
+
+second, i use shorthand, i find it as a really great tool to create persuasive, aestethic, and compelling story telling deck presentation. Also i find it easy to use, took couple of hours(around 1-3 hours) to learn the tool, but the deck / wireframes itself took 2-3 days to complete, here is my link to this project : Shorthand Link
+
+I have developed a shorthand presentation containing a storyboard that lays out the necessary progression through sketches and / or wireframes for this project. The sketches/wireframes that i provided are high-fidelity, and also for the data visualizations i already provided individual draft data visualizations of the critical elements of the story. The outline of the story is clear, and the data visualizations appear to fit well in the context of the outline. There are a sufficient number of data visualizations and they provide a good summary of the story that i wish to tell. Information is logically presented and easy to follow. Sketches and/or wireframes and scenarios of use bring opportunity areas to life especially the call to action for students that can bring opportunity to really participate and know what activities to do in order to participate.
+
+Also i already indentify the data visualizations and sketches, include examples of how the real data might be rendered. Data visualizations that i provide are appropriate for the project and of sufficient quantity and quality to tell a compelling story. I also already referenced and used important elements like titles, annotations, legends, captions, axis, data source and other elements appropriately for the data visualizations.
+
+I have also created a simple user research protocol that describes what the goal of my research is, including the questions i intended to ask my interviewees by showing my early wireframes / storyboards to at least three different individuals.
+
+The protocol i made already include details of who is the target audience, what approach to identifying representative individuals to interview that i will use, the interview script.
+
+My User Research Protocol Will Clearly Identify the Following:
+A. The target audience I hope to reach with my story
+B. My approach to identifying representative individuals to interview
+C. My interview script
+
+### Summary of Journey Creating Part III
 
 # Changes made since Part II
 Include few paragraphs that reflects on changes you made since the completion of Part II.
