@@ -4,14 +4,11 @@
 
 ## Brilian Pracoyo Adi (badi@andrew.cmu.edu)
 
-I already created a new Github page within my existing repository for this final project part 3. I also put navigation that takes the reader between other parts of the final project 
-and back to the main portfolio. And finally, documented my progress of the project here in the new markdown file and includes relevant sections (wireframes and storyboards, user research and interviews, etc.)
+I already created a new Github page within my existing repository for this final project part 3. I also put navigation that takes the reader between other parts of the final project and back to the main portfolio. And finally, documented my progress of the project here in the new markdown file and includes relevant sections (wireframes and storyboards, user research and interviews, etc.)
 
 # The final data story
 
-Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  
-Note any specific adjustments you made to your final project to make it work for your audience.  
-Include any other information that helps round out your data story.
+in this page, I have Included any other information i used that helped me for building the story, data, and narrow the focus (e.g. insights from your interviews, personas, etc.) 
 
 ## A final data story / report on Shorthand (or similar platform you proposed in Part I).
 
@@ -21,7 +18,7 @@ I Included a link to my final data story on Shorthand here :
 ## A final writeup for Part III that summarizes all my work thus far to create my final project. 
 
 ### Summary of Journey Creating Part I
-
+----------------------------------------------------------------------------------------------------------------------------------------------
 The journey of creating my final project starts with my initial part, part 1. When i did the part 1, the whole amount of time i used to work on the part is mostly used to think about what kinda topic is really suitable to be presented in the class and have really great call to action, also thinking thoroughly about the structure breakdown to make it story-able.
 
 I decided to brought up the topic about Earth Hour as the answer to climate change, for people who are not familiar, Earth hour is a global movement initiative that aims to answer climate change issue by aspiring people to turn light off for 1 hour long worldwide while making it as a symbol to increase people awareness about important environmental issues such as climate change.
@@ -71,8 +68,8 @@ Couple of listed Citation used on creating part I:
 
 ### Summary of Journey Creating Part II
 
-***Note:** The modification or changes that i made tranistioning from part I to part II was the target audience that i chose. I was thinking along the journey that the audience for this part was actually to niche and created a pretty awkward transition between the story and call to action. In my opinion, topic like this supposed to target students with general background who might interested in environmental issues, instead of information systems student. So along the way i change the storyboard and narrative to aim the students with general background (can be from any major).
--------------------------------------------------------------------------------------------------------------------------------------------------------
+**Note:** The modification or changes that i made tranistioning from part I to part II was the target audience that i chose. I was thinking along the journey that the audience for this part was actually to niche and created a pretty awkward transition between the story and call to action. In my opinion, topic like this supposed to target students with general background who might interested in environmental issues, instead of information systems student. So along the way i change the storyboard and narrative to aim the students with general background (can be from any major).
+----------------------------------------------------------------------------------------------------------------------------------------------
 My journey in creating part 2 started with creating the wireframes / storyboards takes time around 1-3 days, fully thinking about how to refine the story lines from the last project part and how to add more things in the outline or storyboard narrative structure, in other words, i was thinking how to elaborate content and its structure to tell a compelling story.
 
 I write down my thoughts and try to refine my structure in word doc for these past days, then i immediately shift it to the shorthand app. I find that shorthand is really useful to create a compelling story and presentation. but it gets laggy when there are more wireframes and moving background, so it does take longer time to write and manage everything.
@@ -89,12 +86,12 @@ I have developed a shorthand presentation containing a storyboard that lays out 
 
 Also i already indentify the data visualizations and sketches, include examples of how the real data might be rendered. Data visualizations that i provide are appropriate for the project and of sufficient quantity and quality to tell a compelling story. I also already referenced and used important elements like titles, annotations, legends, captions, axis, data source and other elements appropriately for the data visualizations.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
 I have also created a simple user research protocol that describes what the goal of my research is, including the questions i intended to ask my interviewees by showing my early wireframes / storyboards to at least three different individuals.
 
 The protocol i made already include details of who is the target audience, what approach to identifying representative individuals to interview that i will use, the interview script.
 
-**My User Research Protocol Will Clearly Identify the Following:**
+#### My User Research Protocol Will Clearly Identify the Following:
 A. The target audience I hope to reach with my story
 B. My approach to identifying representative individuals to interview
 C. My interview script
@@ -103,7 +100,7 @@ After defining and knowing my target audience, i tried to think and breakdown wh
 
 To make sure of the validity and relevance of the user research for my project targeting students from general backgrounds, I created a strategic approach to identifying representative individuals to interview. Here’s how I plan to do it:
 
-**Define Target Demographics**
+##### Define Target Demographics
 I will first define the demographic characteristics of students that align with my target audience. This may include factors such as age range, educational background, specific areas of interest field, and their availability to be interviewed.
 
 Academic Background: I will verify that the individuals are currently enrolled in or recently graduated from university, within any major, because the aim is for general students.
@@ -112,49 +109,49 @@ Areas of Interest: I will try to determine the specific areas of interest within
 
 Availability and Accessibility: I will make sure that the individuals are available and willing to participate in the interview process within mydesignated timeframe. Consider factors such as scheduling conflicts, geographic location (if conducting in-person interviews), and accessibility needs.
 
-**Ask colleagues that we have worked together from many Courses at CMU (which match the demographic criteria).**
+##### Ask colleagues that we have worked together from many Courses at CMU (which match the demographic criteria).
 I will look into my friends from various courses or backgrounds in CMU since this aim for general background students.
 
-**Ask friends from my Indonesian CMU Student Organizations (which match the demographic criteria).**
+##### Ask friends from my Indonesian CMU Student Organizations (which match the demographic criteria).
 I will try to leverage my Indonesian Student Organization friends and networks within CMU. They are really helpful and as well many have diverse backgrounds and also studying at CMU.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
 Also, I created interview script with list of 5-7 questions to get a meaningful feedback and insights from the interviewees, I try to come up with the most valuable and important questions to ask, since at first i created 15-20 questions and i think those are too much and kinda overwhelmed the interviewees, so in that case i try to minimize the numbers and come with the most important questions that i think can emphasize and help refine my shorthand storyboards in terms of context, structure, data visualizations, wireframes, etc.
 
 List of goals from my research, and the questions I intend to ask the interviewees.
 
-**Interview script**
+#### Interview script
 
 Goal: Get Ideas of Audience General Understanding About my Story/Context
 
-**General Understanding**
+##### General Understanding
 Can you tell me what you think this is?
 Who do you think is the intended audience for this?
 
 Goal: Finding Insight to Enhance Storyboards Structure (The Presentation Story Structure)
 
-**Storyboards Structure (The Presentation Story Structure)**
+##### Storyboards Structure (The Presentation Story Structure)
 What about the story narrative structure, do you think it is great or not for story telling
 
 Goal: Get Ideas On How to Enhance Wireframes (each slides/content that build the presentation)
 
-**Wireframes (each slides/content that build the presentation)**
+##### Wireframes (each slides/content that build the presentation)
 Is the progression through wireframes already great ?
 
 Goal: Finding Insight to Enhance Data Visualization (Graphics)
 
-**Data Visualizations**
+##### Data Visualizations
 Are the number of data visualizations sufficient to tell a compelling story ?
 Important elements in the visuals like titles, annotations, legends, captions, axis, data source and other elements are referenced and used appropriately ?
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
 Also, I already completed interviewing five people. These interviewees are ranging from student 24-34’s, but i already remove all PII and any sensitive information.
 
 I already documented the findings from the interviews, including specific insights and observations, key quotes and other learnings.
 
 Detail the findings from my interviews.
 
-**Interview Findings / User Findings**
+##### Interview Findings / User Findings
 (Student, mid 20’s)
 Can you tell me what you think this is?
 Article about climate change due to massive energy consumption
@@ -250,12 +247,12 @@ I think so. There’re data from different countries and different angles.
 Important elements in the visuals like titles, annotations, legends, captions, axis, data source and other elements are referenced and used appropriately ?
 Yes, no need to improve since it’s already clear.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
 Furthermore, I already identified what changes that I plan on implementing for Part III based on the feedback to address any issues raised in the user research or interview feedbacks.
 
-**Identified Changes for Part III**
+## Identified Changes for Part III
 
-**Findings or observations from interviews**
+### Findings or observations from interviews
 From my interviews conducted with five people, i higlighted several comments and critique that can be use for further improvements, here are the highlights :
 
 - It’s very text heavy article, you could add more visual or highlight important points to help reader grasp the idea
@@ -267,7 +264,7 @@ From my interviews conducted with five people, i higlighted several comments and
 - Some charts need a data label on it to show the actual numbers since it is depicted in quite a big scale (terawatts)
 - Maybe a story line at the front of page may help people to understand the whole structure better.
 
-**Changes That I Will Implement for The Final Deliverables**
+### Changes That I Will Implement for The Final Deliverables
 Based on the feedback provided by the interviewees, I will create a list of changes that I could implement to improve my final project deliverables :
 
 - I will try to incorporate more visuals such as images related to the content and try to break up the text-heavy content and highlight important points. Reducing the amount of text on each slide or wireframe to improve readability and comprehension.
@@ -280,14 +277,14 @@ Based on the feedback provided by the interviewees, I will create a list of chan
 - I will plan to consider giving a story line at the front of page may help people to understand the whole structure better.
 I will elaborate more during the journey working on the part III, some of these points i already tried to fix, i just want to write these in this github page since these are my thoughts on what can be improve and what are the focus, by implementing these changes, I think i can enhance the overall quality and effectiveness of my final project deliverables and create a much better wireframes, storyboards that can help me on the final presentation.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
-**Moodboards / personas**
+----------------------------------------------------------------------------------------------------------------------------------------------
+### Moodboards / personas
 And lastly, I already did this in the shorthand link, I tried to make the tone, background, theme, and mood related to the topic of climate change environment, etc. I find it as a really great tool to create persuasive, aestethic, and compelling story telling deck presentation that can emphasize audience mood as well. it took me couple of days create it.
 
 
 ### Summary of Journey Creating Part III
 
-In Part III, I tried to polish everything that i think needed to be polish from part II, based on the feedback provided by the interviewees below
+In Part III, I tried to polish everything that i think needed to be polish from part II, based on the feedback provided by the interviewees below :
 
 - I will try to incorporate more visuals such as images related to the content and try to break up the text-heavy content and highlight important points. Reducing the amount of text on each slide or wireframe to improve readability and comprehension.
 - I will keep maintaining consistency in focus throughout the storyboards, either keeping it focusing on global or focusing on specific countries consistently.
@@ -298,9 +295,9 @@ In Part III, I tried to polish everything that i think needed to be polish from 
 - I will include data labels for the actual numbers, especially when depicting data on a large scale such as terawatts.
 - I will plan to consider giving a story line at the front of page may help people to understand the whole structure better.
 
-**but my change mostly in part III are combination between these feedback and also my own creative and critical thoughts, that can deliver the best storyline, structure, and also supporting image / data visuals, to create a good story telling presentation deck.**
+**Note : my change mostly in part III are combination between these feedback and also my own creative and critical thoughts, that can deliver the best storyline, structure, and also supporting image / data visuals, to create a good story telling presentation deck.**
 
-**Changes made since Part II**
+#### Changes made since Part II
 
 The thing i change mostly occurs in the shorthand, these are the things i changed :
 
@@ -316,24 +313,23 @@ What's Our Answer?
 10. I change the project structure, condensed into climate change, world energy consumption, fossil fuel combustion and straight to call to action, then emphasize earth hour as the call to action and how students can participate
 11. mostly rework the text and colors, make it concise and easy to follow and read.
 
-**The audience**
+##### The audience
 Since my topic emphasize on earth hour as an act to foster awareness for people to prevent climate change going onwards, i'm targeting student from various backgrounds, and suggesting various ways for students to contribute reducing climate change through participating earth hour initiatives, since i think and also discuss with lot of people who thought the same, that sense of protecting nature is actually human nature, to protect the environment when they know it will create threat for them.
 
 After defining and knowing my target audience, i tried to think and breakdown what approach i need to use to identify representative individuals and who to reach with my story during my interviews. I finally decided to breakdown my approach into something like below.
 
-**Final design decisions**
+##### Final design decisions
 This is already elaborated in the changes i made for since part II section above, but the final design decision mostly come from iterative thinking, interview feedback, looking at others presentation deck when presenting, and also ask for advise from people close to me, so it can become synergize and create a solid final design for the storyboard and visuals.
 
-**References**
+##### References
 I already add data sources references above in the part 1 journey section, also in the shorthand link on the bottom page of the presentation deck.
 
-**Final thoughts**
+# Final thoughts
 Actually i'm really excited with all the journey i've been through from part I till part III, at first i was thinking that the challenge from each part will make me confused and frustrated at first, but actually once i notice what the end goal is, and seeing instructions one by one from each part, i started to sense the puzzle and put it together. im became much more engaged and interested knowing that im amazed that i actually can properly use tableau and shorthand in only few days, it is a new journey for me at the beginning using these kind of tools and i never think that creating all of this as portofolio would be possible at first, but in the end im really glad i did all of this with thorough thinking, and spent days even weeks thinking about all this. 
 
 There are tons of things that can be a positive reflection during the journey since the beginning of the class until the final project, especially when i have doubts i ask professor a lot and get a really nice feedback from him and guidance that most of them i reflect it and elaborate more through my final project work, it really help me navigate blurriness and all of the confusement i had back then. I also ask some friends to brainstorm the idea until i remember that i had once participate in earth hour, and that was my aha! moment. glad that it will be in my portofolio.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
+----------------------------------------------------------------------------------------------------------------------------------------------
 Other than my personal journey and feelings toward it, i want to also give a checklist of things i already add to this part III:
 
 1. I already complete the final deliverable publicly accessible as a digital asset (shorthand).
@@ -352,10 +348,10 @@ Other than my personal journey and feelings toward it, i want to also give a che
 14. The final deliverable is well written and seems appropriate for the audience. The content appears to reinforce the correct interpretation of the data visualizations. The Word document has been submitted and issues identified by TurnItIn have been addressed.
 15. All elements seem to work together seamlessly. The project feels complete and is not missing elements. Other supporting elements (citations, references, interactions, animations) appear to be working correctly.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------
-**All links / references for everything used in project**
+----------------------------------------------------------------------------------------------------------------------------------------------
+### All links / references for everything used in project
 
-**Citations**
+#### Citations
 [1]“Climate Change & Disabilities | Sustain Our Abilities.” n.d. SOA. Accessed February 23, 2024. https://www.sustainourabilities.org/climate-change-disabilities?gad_source=1&gclid=CjwKCAiA_tuuBhAUEiwAvxkgThjQ__3rHhswBwVy390pNXIxMXjAdoNKnC2B48XWK7TaWK_u76zsdhoCRJkQAvD_BwE.
 
 [2] United Nations. 2023. “What Is Climate Change?” Climate Action. United Nations. 2023. https://www.un.org/en/climatechange/what-is-climate-change.
@@ -372,7 +368,7 @@ Other than my personal journey and feelings toward it, i want to also give a che
 
 [8] “Inventory of U.S. Greenhouse Gas Emissions and Sinks | US EPA.” US EPA, 11 Apr. 2023, www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks.
 
-**Data Source**
+#### Data Source
 Energy Production and Consumption Explore data on how energy production and use varies across the world. https://ourworldindata.org/energy-production-consumption
 
 Primary energy consumption, 2022 Primary energy consumption is measured in terawatt-hours, using the substitution method. https://ourworldindata.org/energy
