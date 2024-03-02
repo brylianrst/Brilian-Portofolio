@@ -69,6 +69,7 @@ Couple of listed Citation used on creating part I:
 ### Summary of Journey Creating Part II
 ----------------------------------------------------------------------------------------------------------------------------------------------
 **Note:** The modification or changes that i made tranistioning from part I to part II was the target audience that i chose. I was thinking along the journey that the audience for this part was actually to niche and created a pretty awkward transition between the story and call to action. In my opinion, topic like this supposed to target students with general background who might interested in environmental issues, instead of information systems student. So along the way i change the storyboard and narrative to aim the students with general background (can be from any major).
+
 ----------------------------------------------------------------------------------------------------------------------------------------------
 My journey in creating part 2 started with creating the wireframes / storyboards takes time around 1-3 days, fully thinking about how to refine the story lines from the last project part and how to add more things in the outline or storyboard narrative structure, in other words, i was thinking how to elaborate content and its structure to tell a compelling story.
 
