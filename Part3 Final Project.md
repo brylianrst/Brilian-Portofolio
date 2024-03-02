@@ -67,7 +67,7 @@ Couple of listed Citation used on creating part I:
 [2] Energy, Just. 2023. “Impact of Energy Production and Consumption the Environment.” Just Energy. August 24, 2023. https://justenergy.com/blog/impact-of-energy-production-consumption-environment/.
 
 ### Summary of Journey Creating Part II
-
+----------------------------------------------------------------------------------------------------------------------------------------------
 **Note:** The modification or changes that i made tranistioning from part I to part II was the target audience that i chose. I was thinking along the journey that the audience for this part was actually to niche and created a pretty awkward transition between the story and call to action. In my opinion, topic like this supposed to target students with general background who might interested in environmental issues, instead of information systems student. So along the way i change the storyboard and narrative to aim the students with general background (can be from any major).
 ----------------------------------------------------------------------------------------------------------------------------------------------
 My journey in creating part 2 started with creating the wireframes / storyboards takes time around 1-3 days, fully thinking about how to refine the story lines from the last project part and how to add more things in the outline or storyboard narrative structure, in other words, i was thinking how to elaborate content and its structure to tell a compelling story.
@@ -250,9 +250,9 @@ Yes, no need to improve since it’s already clear.
 ----------------------------------------------------------------------------------------------------------------------------------------------
 Furthermore, I already identified what changes that I plan on implementing for Part III based on the feedback to address any issues raised in the user research or interview feedbacks.
 
-## Identified Changes for Part III
+#### Identified Changes for Part III
 
-### Findings or observations from interviews
+##### Findings or observations from interviews
 From my interviews conducted with five people, i higlighted several comments and critique that can be use for further improvements, here are the highlights :
 
 - It’s very text heavy article, you could add more visual or highlight important points to help reader grasp the idea
@@ -264,7 +264,7 @@ From my interviews conducted with five people, i higlighted several comments and
 - Some charts need a data label on it to show the actual numbers since it is depicted in quite a big scale (terawatts)
 - Maybe a story line at the front of page may help people to understand the whole structure better.
 
-### Changes That I Will Implement for The Final Deliverables
+##### Changes That I Will Implement for The Final Deliverables
 Based on the feedback provided by the interviewees, I will create a list of changes that I could implement to improve my final project deliverables :
 
 - I will try to incorporate more visuals such as images related to the content and try to break up the text-heavy content and highlight important points. Reducing the amount of text on each slide or wireframe to improve readability and comprehension.
@@ -278,12 +278,12 @@ Based on the feedback provided by the interviewees, I will create a list of chan
 I will elaborate more during the journey working on the part III, some of these points i already tried to fix, i just want to write these in this github page since these are my thoughts on what can be improve and what are the focus, by implementing these changes, I think i can enhance the overall quality and effectiveness of my final project deliverables and create a much better wireframes, storyboards that can help me on the final presentation.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
-### Moodboards / personas
+#### Moodboards / personas
 And lastly, I already did this in the shorthand link, I tried to make the tone, background, theme, and mood related to the topic of climate change environment, etc. I find it as a really great tool to create persuasive, aestethic, and compelling story telling deck presentation that can emphasize audience mood as well. it took me couple of days create it.
 
 
 ### Summary of Journey Creating Part III
-
+----------------------------------------------------------------------------------------------------------------------------------------------
 In Part III, I tried to polish everything that i think needed to be polish from part II, based on the feedback provided by the interviewees below :
 
 - I will try to incorporate more visuals such as images related to the content and try to break up the text-heavy content and highlight important points. Reducing the amount of text on each slide or wireframe to improve readability and comprehension.
