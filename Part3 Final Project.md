@@ -16,7 +16,7 @@ Include any other information that helps round out your data story.
 ## A final data story / report on Shorthand (or similar platform you proposed in Part I).
 
 I Included a link to my final data story on Shorthand here :
-https://preview.shorthand.com/OcvvIO8KW2GZtx24#group-section-Participate-aNv2mRDkOf
+[Shorthand Link](https://preview.shorthand.com/OcvvIO8KW2GZtx24#group-section-Climate-Change-E81tPh23Qk)
 
 ## A final writeup for Part III that summarizes all my work thus far to create my final project. 
 
@@ -351,3 +351,48 @@ Other than my personal journey and feelings toward it, i want to also give a che
 13. Embedded visualizations working correctly and appear appropriate for the audience. Colors support understanding of the information and don't distract from the message. Other elements work with the overall deliverable, not against it. Data visualizations are easy to interpret and understand.
 14. The final deliverable is well written and seems appropriate for the audience. The content appears to reinforce the correct interpretation of the data visualizations. The Word document has been submitted and issues identified by TurnItIn have been addressed.
 15. All elements seem to work together seamlessly. The project feels complete and is not missing elements. Other supporting elements (citations, references, interactions, animations) appear to be working correctly.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+**All links / references for everything used in project**
+
+**Citations**
+[1]“Climate Change & Disabilities | Sustain Our Abilities.” n.d. SOA. Accessed February 23, 2024. https://www.sustainourabilities.org/climate-change-disabilities?gad_source=1&gclid=CjwKCAiA_tuuBhAUEiwAvxkgThjQ__3rHhswBwVy390pNXIxMXjAdoNKnC2B48XWK7TaWK_u76zsdhoCRJkQAvD_BwE.
+
+[2] United Nations. 2023. “What Is Climate Change?” Climate Action. United Nations. 2023. https://www.un.org/en/climatechange/what-is-climate-change.
+
+[3] Ritchie, Hannah, Max Roser, and Pablo Rosado. 2020. “Energy Production and Consumption.” Our World in Data. 2020. https://ourworldindata.org/energy-production-consumption.
+
+[4] International, W. W. F. “Join One of the World’s Largest Movements for Nature | Earth Hour 2020.” Www.earthhour.org, 2023, www.earthhour.org/.
+
+[5] International, W. W. F. “Milestones over the Years | Earth Hour.” Www.earthhour.org, www.earthhour.org/about/milestones.
+
+[6] International, W. W. F. “Give an Hour for Earth | Earth Hour 2020.” Www.earthhour.org, www.earthhour.org/take-part/give-an-hour.
+
+[7] EPA. “Greenhouse Gas Inventory Data Explorer | US EPA.” Epa.gov, 2017, cfpub.epa.gov/ghgdata/inventoryexplorer/.
+
+[8] “Inventory of U.S. Greenhouse Gas Emissions and Sinks | US EPA.” US EPA, 11 Apr. 2023, www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks.
+
+**Data Source**
+Energy Production and Consumption Explore data on how energy production and use varies across the world. https://ourworldindata.org/energy-production-consumption
+
+Primary energy consumption, 2022 Primary energy consumption is measured in terawatt-hours, using the substitution method. https://ourworldindata.org/energy
+
+Electricity generation, 2022 Measured in terawatt-hours. https://ourworldindata.org/energy
+
+Electricity Mix Explore data on where our electricity comes from, and how this is changing. https://ourworldindata.org/electricity-mix
+
+Electricity Consumption U.S. Energy Information Administration https://www.eia.gov/international/data/world/electricity/electricity-consumption
+
+Electricity domestic consumption Global electricity consumption comes closer to its historical growth trend (+2% in 2022). https://yearbook.enerdata.net/electricity/electricity-domestic-consumption-data.html
+
+Electric power consumption (kWh per capita) IEA Statistics © OECD/IEA 2014 ( iea.org/data-and-statistics ), subject to iea.org/terms https://data.worldbank.org/indicator/EG.USE.ELEC.KH.PC
+
+Greenhouse Gas Inventory Data Explorer https://cfpub.epa.gov/ghgdata/inventoryexplorer/#electricpowerindustry/entiresector/allgas/category/all
+
+Inventory of U.S. Greenhouse Gas Emissions and Sinks https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks
+
+Sources of Greenhouse Gas Emissions https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions#electricity
+
+Global Greenhouse Gas Emissions Data https://www.epa.gov/ghgemissions/global-greenhouse-gas-emissions-data#Reference%201
+
+CO₂ and Greenhouse Gas Emissions https://ourworldindata.org/co2-and-greenhouse-gas-emissions
