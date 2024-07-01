@@ -9,7 +9,7 @@ Sometimes it's helpful to keep track of your web URL.  Consider putting that som
 - This repository: https://github.com/brylianrst/Brilian-Portofolio
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data Visualization. Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
 Hello there! 👋 I'm Brilian, a graduate student at MISM 12 and also a dedicated data enthusiast with a background in Project Management and Business Analyst. My journey into the vast realm of data began with a spark of curiosity, and since then, I've been on a mission to unravel the stories hidden within the numbers. In my day-to-day work back then i analyzed data to gain insights for deciding project initiatives. I've witnessed firsthand the transformative power of data in making informed decisions and driving positive outcomes. My fascination with the potential of data led me to embark on this exciting journey of continuous learning.
