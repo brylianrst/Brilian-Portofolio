@@ -1,6 +1,6 @@
 [home github_portofolio](https://github.com/brylianrst/Brilian-Portofolio) | [home page](https://brylianrst.github.io/Brilian-Portofolio/) | [Governmentdebthighlightviz](https://brylianrst.github.io/Brilian-Portofolio/Governmentdebthighlightviz.html) | [Myowngvernmentdebtviz](https://brylianrst.github.io/Brilian-Portofolio/Myowngvernmentdebtviz.html) | [governmentdebtviz](https://brylianrst.github.io/Brilian-Portofolio/governmentdebtviz.html) | [Newsdemo](https://brylianrst.github.io/Brilian-Portofolio/newsdemo.html) | [Assignment3&4 (Nevermarried)](https://brylianrst.github.io/Brilian-Portofolio/Assignment3&4(Nevermarried).html) | [Part1 Final Project](https://brylianrst.github.io/Brilian-Portofolio/Part1%20Final%20Project.html) | [Part2 Final Project](https://brylianrst.github.io/Brilian-Portofolio/Part2%20Final%20Project.html) | [Part3 Final Project](https://brylianrst.github.io/Brilian-Portofolio/Part3%20Final%20Project.html) | [final project I](https://brylianrst.github.io/Brilian-Portofolio/final-project-part-one.html) | [final project II](https://brylianrst.github.io/Brilian-Portofolio/final-project-part-two.html) | [final project III](https://brylianrst.github.io/Brilian-Portofolio/final-project-part-three.html)
 
-# Brilian-Telling Stories With Data-portfolio
+# Telling Stories With Data-portfolio
 
 Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
 Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
